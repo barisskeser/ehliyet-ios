@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g28_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, yaralı taşımalarında ilk yardımcının uyması gereken kurallardan biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kendi sağlığını riske atması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kalkarken ağırlığı kalça kaslarına vermesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sırtın gerginliğini korumak için dizlerini bükmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yön değiştirirken ani dönme ve bükülmelerden kaçınması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "İlk yardım sırasında, yardımcının kendi güvenliğini riske atması kesinlikle yapılmaması gereken bir durumdur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g28_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "İlk yardım girişimlerinin amacı aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hastaları tedavi etmek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Trafik kazalarını önlemek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Temel yaşam desteği sağlamak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bulaşıcı hastalıklardan korunmayı sağlamak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "İlk yardımın amacı, can kaybını önlemek ve temel yaşam fonksiyonlarını destekleyerek sağlık hizmetlerine ulaşılana kadar durumu stabilize etmektir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g28_q3",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "İlk yardım yapan kişi, yaralının omuzuna hafifçe dokunarak 'iyi misiniz?' diye sorar. Bu davranış ile yaralının hangi durumu kontrol edilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ağız içi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bilinci",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Göğüs hareketi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Solunumu",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Omuz dokunuşu, yaralının bilincinin açık olup olmadığını anlamak için kullanılan bir yöntemdir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g28_q4",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Kaza yerine ulaşan ilk yardımcının öncelikle yapması gereken nedir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yaralıları belirlemek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yaralıları araçtan çıkarmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kazayı yetkililere haber vermek",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kendisinin ve yaralıların güvenliğini sağlamak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "İlk yardım girişiminde, hem yardım edenin hem de yaralıların güvenliği en öncelikli husustur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g28_q5",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi solunum durmasına bağlı olarak dokuların oksijensiz kaldığını gösteren bir belirtidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Parmak uçları ve dudaklardan başlayıp yayılan morarma olması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yüzün kızarması ve vücut sıcaklığının artması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kişinin aktif ve huzursuz olması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Göz bebeklerinin küçülmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Dokular yeterince oksijen alamadığında, özellikle uç noktalarda morarma meydana gelir. Bu durum oksijen eksikliğini gösterir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g28_q6",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdaki durumların hangisinde suni solunum yapılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kalbi düzensiz çalışanlara",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Öksürük ve hıçkırığı olanlara",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Göğüs kafesi düzenli olarak inip kalkanlara",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bak-dinle-hisset yöntemi ile solunumu saptanamayanlara",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Suni solunum, kişinin doğal solunumunun olmadığı durumlarda, 'bak-dinle-hisset' yöntemiyle solunumun belirlenememesi halinde uygulanır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g28_q7",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Şah damarına bası uygulanması aşağıdaki bölge kanamalarından hangisinde yapılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bacak bölgesinde olan kanamalarda",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Karın bölgesinde olan kanamalarda",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yüz bölgesinde olan kanamalarda",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kol bölgesinde olan kanamalarda",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Yüz bölgesinde meydana gelen kanamalarda, nazal damarlarla birlikte yüz damarlarına da müdahale edilerek kontrol sağlanır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g28_q8",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "İlk yardım uygulaması olarak kazazedenin bacaklarının 30 cm yukarıya kaldırılması aşağıdaki durumların hangisinde sakıncalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şok",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Beyin kanaması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Ayakta olan kanamalar",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Ayak bileğinin burkulması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Beyin kanaması durumunda baş seviyesinin yükseltilmesi gerekir. Bacakları kaldırmak sakıncalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g28_q9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "I- Deri soğuk ve nemlidir.\nII- Nabız düzenli ve dolgundur.\nIII- Solunum yüzeysel ve hızlıdır.\n\nVerilen bulgulardan hangileri şok belirtisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yalnız II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "I ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Soğuk, nemli deri ve yüzeysel, hızlı solunum, şok durumunun tipik belirtilerindendir; düzenli ve dolgun nabız ise şok belirtisi değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g28_q10",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Kendiliğinden meydana gelen burun kanamasında, kazazedeye aşağıdaki pozisyonlardan hangisi verilmelidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Oturuş pozisyonu",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Baş-çene pozisyonu",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sırtüstü yatış pozisyonu",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yüzüstü yatış pozisyonu",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Burun kanaması durumunda, kişinin oturması ve başının hafif öne eğik tutulması, kanamanın kontrol altında tutulmasına yardımcı olur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g28_q11",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Omurga kırıklarında geçici veya kalıcı felçlerin oluşmasının nedeni aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sırtüstü, düz pozisyonda yatırılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kazazedenin hareketsiz hâle getirilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Omuriliğin baskı altında olması ya da zedelenmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Taşıma esnasında baş, boyun ve gövde ekseninin korunması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Omuriliğin doğrudan zedelenmesi veya baskı altında kalması, omurga kırığı sonrası felç oluşumuna yol açar.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g28_q12",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi göğüs yaralanması olan kazazedeye uygulanmaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Açık olan yarayı temiz bir bezle kapatıp basınç yapmadan sarmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Ayakları yüksekte tutup sırtüstü yatırmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Batan cisim varsa çıkarmamak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yarı oturur duruma getirmek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Göğüs yaralanması olan bir kazazedede, ayakların yüksekte tutulması kan dolaşımını olumsuz etkileyebilir; bu nedenle böyle bir pozisyon önerilmez.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 28,
+  "testId": "ilkyardim_group_28",
+  "name": "İlk Yardım Test 28"
+}

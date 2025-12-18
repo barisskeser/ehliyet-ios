@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g11_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "• Kısa süreli, yüzeysel ve geçicidir.\n• Beyne giden kan akışının azalması sonucu oluşur.\n\nYukarıda özellikleri verilen bilinç kaybı hâli hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bayılma",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Şok",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kansızlık",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Koma",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kısa süreli ve geçici bilinç kaybı, tipik olarak bayılma olarak adlandırılır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g11_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "I. Spor ve iş kazaları\nII. Yüksek bir yerden düşme\nIII. Otomobil ya da motosiklet kazaları\n\nVerilenlerden hangileri, kafatası ve omurga yaralanmalarının nedenlerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Tüm belirtilen durumlar, kafa ve omurga yaralanmaları riskini artıran kazalara yol açabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g11_q3",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, delici karın yaralanmalarında yapılan doğru bir ilk yardım uygulamasıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Enfeksiyonu engellemek için yara bölgesinin sıcak sabunlu su ile yıkanması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Organlar dışarı çıkmış ise içeri sokulmayıp, üzerinin temiz ve nemli bir bez ile örtülmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kazazedenin bilinci yerinde ise yüz üstü pozisyonda yatırılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sıvı kaybını önlemek için ağızdan ılık içecekler verilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Açık yaralı durumda, dışarıda olan organların temiz ve nemli bir bezle örtülmesi, enfeksiyon riskini azaltır ve dokuların korunmasını sağlar.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g11_q4",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi burkulmanın tanımıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Eklem çevresinin şişmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Eklemlerde görülen şekil bozukluğu",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Eklem yüzeylerinin anlık olarak ayrılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Eklem yüzeylerinin kalıcı olarak ayrılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Burkulma, eklem yüzeylerinin ani ve geçici olarak ayrılmasını ifade eder; kalıcı yapısal hasar değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g11_q5",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Kazazedenin genellikle enkaz altından ve tünel gibi dar alanlardan çıkarılmasında kullanılır. Ayrıca ilk yardımcı, fiziksel güç kapasitesini de değerlendirmeli, iri ve kilolu kazazedeleri bu teknikle taşımalıdır.\n\nYukarıdaki açıklama, acil taşıma tekniklerinden hangisine aittir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "İtfaiyeci yöntemi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Rentek manevrası",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Heimlich manevrası",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sürükleme yöntemi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Açıklamada belirtilen teknik, kazazedelerin fiziksel güce dayalı olarak yer değiştirilmesini ifade eden sürükleme yöntemidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g11_q6",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "İlk yardımcı, başını kazazedenin göğsüne bakacak şekilde yan çevirerek yüzünü kazazedenin ağzına yaklaştırır, - - - - ile solunum yapıp yapmadığını 10 saniye süreyle değerlendirir.\n\nBu ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "bak-dinle-hisset yöntemi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Heimlich manevrası",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "turnike uygulaması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "şok pozisyonu",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Bu yöntem, kazazedede solunumunun olup olmadığını kontrol etmek için görsel, işitsel ve dokunsal ipuçlarını değerlendirmeyi içerir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g11_q7",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Akciğerler vücudumuzdaki hangi sistemde yer alır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sinir sisteminde",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hareket sisteminde",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Solunum sisteminde",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Boşaltım sisteminde",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Akciğerler, vücudun hava alıp verme fonksiyonunu sağlayan temel organlarındandır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g11_q8",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Çocuklarda yapılan temel yaşam desteği uygulamasında, göğüs kemiği kaç cm aşağı inecek şekilde kalp basısı uygulanır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "5",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "8",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "11",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Çocuklarda kalp basısı için önerilen derinlik genellikle 5 cm olarak belirlenmiştir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g11_q9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, tam tıkanıklık yaşayan ve karından baskı uygulanamayan çok küçük bebeklerde, hava yolunun açılması için yapılması gereken uygulamalardan biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "5 kez el bileğinin iç kısmı ile bebeğin sırtına,kürek kemiklerinin arasına hafifçe vurulması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Başparmak ve diğer parmakların yardımıyla bebeğin çenesinin kavranması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bebeğin başının gergin ve gövdesinden yukarıda olacak şekilde tutulması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bebeğin ilk yardımcının bir kolu üzerine ters olarak yatırılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Bebeklerde hava yolu açılması için doğru pozisyon, başın gereksiz yere gergin tutulmasını içermez; bu yöntem önerilmemektedir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g11_q10",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, kazazedeye şok pozisyonu verilirken izlenmesi gereken işlem basamaklarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bacaklarının altına çarşaf, battaniye, yastık,kıvrılmış giysi vb. destek konulması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yaşam bulgularından, sadece nabzının değerlendirilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Vücuduna soğuk uygulama yapılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Düz olarak yüzüstü yatırılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Şok pozisyonunda, bacak altına destek uygulamak dolaşımın korunması açısından hayati önem taşır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g11_q11",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Hayatın kurtarılması amacıyla olay yerindeki kazazedeye, tıbbi araç gereç aranmaksızın mevcut araç gereçlerle ilaçsız uygulamaları yapan eğitim almış kişiye ne ad verilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sürücü",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Girişimci",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafik polisi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "İlkyardımcı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "İlkyardım eğitimi almış kişiler, acil durumlarda ilaçsız müdahalede bulunarak hayat kurtarmaya yardımcı olurlar.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g11_q12",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, dış kanamalarda yapılacak ilk yardım uygulamalarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Uzuv kopması durumunda turnike uygulamaktan kaçınılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kanama durmazsa ikinci bir bez koyarak basıncın arttırılması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kanayan yere en uzak basınç noktasına baskı uygulanması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kanayan bölgenin kalp hizasının altına indirilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Kanamanın kontrol altına alınması için, ilave bez ekleyerek bölgeye uygulanan basınç artırılabilir ve kan kaybı azaltılır.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 11,
+  "testId": "ilkyardim_group_11",
+  "name": "İlk Yardım Test 11"
+}

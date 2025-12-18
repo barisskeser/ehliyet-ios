@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g18_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Alkollü araç kullanımıyla ilgili aşağıda verilenlerden hangisi yanlıştır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ticari araçlar için promil sınırı daha düşüktür.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Ehliyet 2 yıl süreyle elinden alınan sürücüler davranış geliştirme eğitimi alır.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Alkollü araç kullanma dikkati arttırır.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Alkollü araç kullanan sürücü aday sürücüyse ehliyet belgesine el konulur.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Alkol dikkati ve reaksiyon hızını artırmaz, aksine azaltır ve sürücüyü tehlikeye açık hale getirir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g18_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Trafikte iki araç yol verme/vermeme konusunda birbirlerine karşı üstünlük kurmaya çalışmaktadır. \n\nBöyle bir durum söz konusuyken araç sürücüsünün çok öfkeli olduğu gözlemlenmektedir. Camını indirip öfkesini dışa vurmaya hazırlanırken, diğer araç sürücünün hangi davranışı sergilemesi doğru olur.",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aynı şekilde karşılık vermesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Küfretmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Mimiklerle öfkesini belli etmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Gülümseyerek karşılık vermesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafikte olumsuz davranışa pozitif bir tutumla yaklaşmak gerginliği düşürür ve kazaları önleyebilir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g18_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "'Çakıllı dar ve herhangi bir araba cebi olmayan bir yolda ilerleyen araç içinde hamile bulunmaktadır. Araç sürücüsü dörtlü flaşörü yakarak ağır ağır yolda ilerlemektedir. Arkadan gelen arazi aracı tarafından sellektör yapılmakta, sık sık kornaya basılmaktadır. '\n\nBu durum için arkadaki araç sürücüsü için hangisini söylemek doğru olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Empati yeteneği gelişmiştir.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Saygısız sürücü davranışlarına örnektir.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hoşgörülüdür.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Adabımuaşeret kurallarına uymaktadır.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Arkadan sürekli sellektör yaparak rahatsız etmek, saygısız ve sabırsız bir davranıştır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g18_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Trafikteki ve çevredeki diğer unsurlarda göz önüne alındığında aşağıda verilen yaş aralıklarından hangisinin kaza yapma riski daha yüksektir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "18-25",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "25-35",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "35-40",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "40-45",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Genç ve deneyimsiz sürücüler (18-25 yaş), genellikle daha yüksek kaza riskine sahiptir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g18_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi tedbirsiz araç kullanmaya örnek değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hız sınırlarını aşmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kar lastiği olmadan yola çıkmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Araç içinde sigara içmek",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sisli havalarda sis farını yakmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Sisli havalarda sis farını yakmak, görüşü iyileştirmek için önerilen bir uygulamadır ve tedbirsizlik değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g18_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıda bulunan sürücü özelliklerinden hangisi trafiği tehlikeye düşürebilecek niteliktedir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yardımlaşan",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sabırlı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Saygılı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bencil",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafikte bencil davranışlar, diğer sürücülerin haklarını göz ardı ederek tehlikeye yol açabilir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 18,
+  "testId": "trafikadabi_group_18",
+  "name": "Trafik ve Çevre Test 18"
+}

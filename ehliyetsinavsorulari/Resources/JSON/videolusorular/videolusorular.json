@@ -1,0 +1,569 @@
+{
+  "testNumber": 1,
+  "testId": "video_test_1",
+  "name": "Videolu Sorular",
+  "questionCount": 17,
+  "questions": [
+    {
+      "id": "video_q1",
+      "order": 1,
+      "categoryId": "trafik",
+      "question": "Olay yerindeki araç sürücüsü ilk yardımın temel uygulamalarından hangisini gerçekleştirmektedir?",
+      "type": "video",
+      "videoName": "videolualti",
+      "options": [
+        {
+          "key": "a",
+          "text": "Koruma",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bildirme",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kurtarma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Tedavi etme",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Bildirme: En hızlı şekilde gerekli yardım kuruluşlarına ( 112 ) haber verilmesidir. 112 arandığında kesin yer ve adres, kim, hangi numaradan arıyor, olayın tanımı, hasta ya da yaralı sayısı, durumu, nasıl bir yardım aldıkları açıklanmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q2",
+      "order": 2,
+      "categoryId": "trafik",
+      "question": "Sürücüsünün trafikte motosiklet kullanımı ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "type": "video",
+      "videoName": "videoluiki",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sol taraftaki akan trafiği kontrol etmemiştir.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Dönüş kurallarına uygun hareket etmemiştir",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Şerit takibini hatalı yapmıştır",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Tüm trafik kurallarına saygılıdır",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Sürücü A,B ve C seçeneklerinde yer alan ihlallerin hepsini yapmıştır, bu yüzden 'Tüm Trafik kurallarına saygılıdır' denilemez.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q3",
+      "order": 3,
+      "categoryId": "trafik",
+      "question": "I- Her durumda trafik ışıklarına yaklaşınca hızını azaltmalı ve dikkatli geçiş yapmalıdır.\nII- 'Yeşilden sarıya' dönen trafik işaretini gördüğünde 'kırmızı ışığın' yanması için beklemelidir.\nIII- Güvenle duramayacak mesafedeyse geçişini tamamlamalıdır.\n\nAraç sürücüsü trafik ışığı 'yeşilden-sarıya' döndüğü esnada devam etmiştir. Durum ile ilgili seçeneklerden hangileri söylenebilir.",
+      "type": "video",
+      "videoName": "videolubir",
+      "options": [
+        {
+          "key": "a",
+          "text": "I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "I ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I,II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Sürücü ışığa yaklaşınca hızını azaltmalıdır, yeşilden sarıya dönen trafik işaretini gördüğünde kırmızı ışığın yanması için beklemelidir, güvenle duramayacak mesafedeyse geçişini tamamlamalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q4",
+      "order": 4,
+      "categoryId": "trafik",
+      "question": "Araç sürücüsü nasıl davranmalıdır?",
+      "type": "video",
+      "videoName": "videoluyedi",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dörtlü ikaz ışıklarını yakarak beklemeli",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Korna çalarak öndeki araç sürücüsünü uyarmalı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hızını artırarak bu bölgeden uzaklaşmalı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hızını azaltarak sol şeritten yoluna devam etmeli",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Bu durumda sürücü hızını azaltmalı ve sol şeride geçerek yoluna devam etmelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q5",
+      "order": 5,
+      "categoryId": "trafik",
+      "question": "Sürücünün hangisini yapması doğrudur?",
+      "type": "video",
+      "videoName": "videolubes",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hızını azaltıp şeridinde devam etmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Korna çalarak bisiklet sürücüsünü uyarması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bisikletin sağından yoluna devam etmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Uyarı ışıklarını yakarak durması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Sürücü bisikletli sürücüye dikkat etmeli ve hızını azaltarak şeridinde kalmaya devam etmelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q6",
+      "order": 6,
+      "categoryId": "trafik",
+      "question": "Sağa dönüş yapan kırmızı renkli araç sürücüsü hakkında numaralanmış ifadelerden hangileri kesinlikle söylenir?\n\nI. Hız sınırlamasına uymadığı\nII. Araç ışıklarını gerekli yerde kullanmadığı\nIII. Kavşaklarda dönme ve dönüş kurallarına uymadığı",
+      "type": "video",
+      "videoName": "videoludort",
+      "options": [
+        {
+          "key": "a",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve III",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I,II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Sürücü sağa dönüşte sinyal vermemiştir ve yaya yolundaki yayaya dikkat etmemiştir.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q7",
+      "order": 7,
+      "categoryId": "trafik",
+      "question": "Sürücü hakkında hangisi kesinlikle söylenir?",
+      "type": "video",
+      "videoName": "videoluuc",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sabırsız",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kavgacı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Heyecanlı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kaygılı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kırmızı ışık yeşile döndüğü sırada yaya geçidindeki yaşlı adam hala geçiş yapmaktadır. Bu durum sürücüyü sinirlendirmiştir, buna bakarak sürücünün sabırsız olduğunu söylebiliriz.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q8",
+      "order": 8,
+      "categoryId": "trafik",
+      "question": "I. Can ve mal güvenliğini tehlikeye attığı \nII. İleri sürüş tekniklerine sahip olduğu \nIII. Şerit takip kurallarına uyduğu \nIV. Geçme kurallarına uymadığı \n\nMotosiklet sürücüsü için numaralanmış ifadelerden hangileri kesinlikle söylenebilir?",
+      "type": "video",
+      "videoName": "videolusekiz",
+      "options": [
+        {
+          "key": "a",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve IV",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "III ve IV",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I ve II",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Motosiklet sürücüsü, hızlı giderek ve sollama kurallarına uymayarak hem trafik kurallarını ihlal etmiş hem de can ve mal güvenliğini tehlikeye atmıştır. Bu durum, özellikle soruda belirtilen I ve IV ifadelerini doğrulamaktadır.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q9",
+      "order": 9,
+      "categoryId": "trafik",
+      "question": "Videoya göre, sürücü nasıl bir tehlikenin olabileceğini düşünmelidir?",
+      "type": "video",
+      "videoName": "videoludokuz",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yolun ilerisinde trafik denetimi yapılabileceğini",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Rüzgar nedeniyle direksiyon hakimiyetini kaybedebileceğini",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Orta şeritteki otomobilin ani fren yapabileceğini",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bir aracın benzin istasyonundan yola çıkabileceğini",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Sürücü, en sağ şeritte hızlı bir şekilde ilerlediği ve benzinlik önünden geçtiği için, bu durum potansiyel bir tehlike oluşturur. Benzin istasyonlarından araçların aniden yola çıkabileceği öngörülebilir bir risktir.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q10",
+      "order": 10,
+      "categoryId": "trafik",
+      "question": "Videodaki sarı minibüsle ilgili hangisi kesinlikle söylenir?",
+      "type": "video",
+      "videoName": "videoluon",
+      "options": [
+        {
+          "key": "a",
+          "text": "Egzozunun arızalı olduğu",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Motorunun düzensiz çalıştığı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kapasitesinin üzerinde yük taşıdığı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yüksek devirde kullanıldığı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Videoda sarı minibüsün sürekli egzozundan duman atması, motorunun düzensiz çalıştığını açıkça göstermektedir. Bu durum, genellikle yakıtın tam yanmaması veya motor arızasından kaynaklanır.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q11",
+      "order": 11,
+      "categoryId": "trafik",
+      "question": "Videodaki tehlikeli durum, sürücülerin hangi kuralı ihlal etmeleri sonucunda oluşmuştur?",
+      "type": "video",
+      "videoName": "videoluonbir",
+      "options": [
+        {
+          "key": "a",
+          "text": "Takip mesafesi kuralını",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Şerit takip kuralını",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kavşaklarda ilk geçiş hakkı kuralını",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Geçme kuralını",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Videodaki tehlikeli durum, yeşil aracın şerit takip kuralını ihlal ederek sola dönüş için erkenden şerit değiştirmemesi ve sağ şeritten doğrudan beyaz aracın önüne kırarak sola dönmeye çalışması sonucunda oluşmuştur. Bu, diğer sürücüler için ciddi bir tehlike yaratmıştır.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q12",
+      "order": 12,
+      "categoryId": "trafik",
+      "question": "Videoya göre, kırmızı otomobil sürücüsü nasıl davranmalıdır?",
+      "type": "video",
+      "videoName": "videoluoniki",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yavaşlamalı ve önündeki aracın arkasından yoluna devam etmeli",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Önündeki aracın sağından yoluna devam etmeli",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Solundaki şeride geçmeli",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Korna çalarak önündeki aracın hızlanmasını istemeli",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Park halindeki sarı araç yola çıktığı için kırmızı araç hızını azaltmalı ve sarı aracın arkasından yoluna devam etmelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q13",
+      "order": 13,
+      "categoryId": "trafik",
+      "question": "Videoya göre, beyaz otomobilin sürücüsü için hangisi kesinlikle söylenir?",
+      "type": "video",
+      "videoName": "videoluonuc",
+      "options": [
+        {
+          "key": "a",
+          "text": "Uykusuz ve yorgun olarak araç kullandığı",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İleri sürüş tekniklerine uygun araç kullandığı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Şerit takip ve manevra kurallarına uymadığı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Uyuşturucu veya uyarıcı madde etkisinde araç kullandığı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Videodaki beyaz araç sağa dönüş yapacağı için erkenden en sağ şeride geçmeliydi, bunu yapmadığı için en sağ şeritte giden aracın önüne kırarak sağa dönmeye çalışıyor. Bu nedenle doğru cevap C seçeneğidir.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q14",
+      "order": 14,
+      "categoryId": "trafik",
+      "question": "Videoya göre hangisinin yapılması doğru olur?",
+      "type": "video",
+      "videoName": "videoluondort",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sarı otomobil sürücüsünün hızlanması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Siyah otomobil sürücüsünün sol şeride geçmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Siyah otomobil sürücüsünün beyaz otomobil sürücüsüne ilk geçiş hakkını vermesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Beyaz otomobil sürücüsünün beklemesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Beyaz otomobil sürücüsü diğer araçların geçiş hakkı olduğu için beklemelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q15",
+      "order": 15,
+      "categoryId": "trafik",
+      "question": "Videodaki kazayla ilgili hangisi kesinlikle söylenir?",
+      "type": "video",
+      "videoName": "videoluonbes",
+      "options": [
+        {
+          "key": "a",
+          "text": "Araç sürücüleri takip mesafesine uymaktadır.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kaza, iklim şartlarına bağlı olarak meydana gelmiştir.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Mavi araç sürücüsünün hatalı geçme yapması kazaya sebep olmuştur.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yeşil araç sürücüsünün ani firen yapması kazaya sebep olmuştur.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Mavi araç sürücüsü slolom yaparak (makas atmak) ilerlediği için kazaya sebep olmuştur.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q16",
+      "order": 16,
+      "categoryId": "trafik",
+      "question": "Videoya göre sürücü nasıl davranmalıdır?",
+      "type": "video",
+      "videoName": "videoluonalti",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sol şeride geçip derhal servise gitmeli",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Trafik kurallarına uygun olarak derhal durmalı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yavaşlayıp sağ şeritten yoluna devam etmeli",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sabit hızla aynı şeritte yoluna devam etmeli",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Bu simge, aracın motor soğutma suyu sıcaklığının normalin üzerine çıktığını veya motorun aşırı ısındığını gösterir. Bu durum, soğutma sisteminde bir sorun olduğunu (örneğin, düşük soğutma suyu seviyesi, radyatör arızası veya termostat problemi) işaret edebilir. Bu ışık yandığında, aracı durdurup motorun soğumasını beklemek ve gerekli kontrolleri yapmak önemlidir. Aksi takdirde, motor ciddi şekilde zarar görebilir.",
+      "mainImage": null
+    },
+    {
+      "id": "video_q17",
+      "order": 17,
+      "categoryId": "trafik",
+      "question": "I. Kırmızı ışıkta geçmektedir. \nII. Sağdan gelen yeşil araca ilk geçiş hakkını vermemektedir. \nIII. Girişi olmayan yol bölümüne girmektedir. \n\nVideoya göre, kırmızı otomobil sürücüsü numaralanmış hatalardan hangilerini yapmaktadır?",
+      "type": "video",
+      "videoName": "videoluonyedi",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve III",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Kırmızı otomobil sürücüsü hem kırmızı ışıkta geçmektedir, hem de giriş yapılmaz tabelası olan yola girmektedir.",
+      "mainImage": null
+    }
+  ]
+}

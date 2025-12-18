@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g5_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "Ülkemizde ilk yardım gerektiren her durumda, 112 Acil Yardım Servisinin aranması ve gerekli bilgilerin doğru olarak verilmesi bir insanlık görevidir.\n\nBuna göre 112 Acil Yardım Servisinin aranması sırasında dikkat edilecek hususlarla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Olayın tanımını yapmaktan kaçınmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kimin, hangi numaradan aradığını bildirmekten kaçınmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sakin olmak ya da sakin olan bir kişinin aramasını sağlamak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Herhangi bir ilk yardım uygulaması yapıldıysa bu durumu sağlık personelinden gizlemek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "112 Acil Yardım Servisini ararken sakin olmak veya sakin bir kişinin araması, doğru bilgilerin verilmesini ve sağlık ekiplerinin hızla olay yerine yönlendirilmesini sağlar.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g5_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "Kanın vücuttaki görevleriyle ilgili olarak verilenlerden hangisi yanlıştır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pıhtılaşmanın sağlanmasında rol oynar.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Vücut sıcaklığını ve vücudun sıvı dengesini ayarlar.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Oksijen, besin maddesi ve hormonları hücrelere, atık maddeleri ve karbondioksiti ilgili organlara taşır.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Vücudun hastalık etkeni olan mikroorganizmalara karşı savunmasını zayıflatır.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kanın görevleri arasında vücudu hastalık etkenlerine karşı korumak bulunur. Bu nedenle 'zayıflatır' ifadesi yanlıştır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g5_q3",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Boyun travması olmayan bilinci kapalı bir kazazedenin hava yolu açıklığını sağlamak için aşağıdaki uygulamaları yapan ilk yardımcının, hangi seçenekteki davranışı hatalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Solunumu zorlaştıracak kıyafetleri gevşetmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yabancı cismi görmeden kazazedenin ağız içine kör dalış yapması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kazazedeyi sert ve düz bir zemin üzerine baş, boyun ve gövde ekseni düz olacak şekilde sırtüstü yatırması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bir elini kazazedenin alnına koyarak başı geriye iterken diğer elinin iki parmağıyla çeneyi öne ve yukarı doğru çekmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Yabancı cismi görmeden ağız içine dalış yapmak hava yolunu daha fazla tıkayabilir ve zarar verebilir. Bu nedenle hatalı bir uygulamadır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g5_q4",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Çocuklarda temel yaşam desteği uygulamasıyla ilgili verilenlerden hangisi doğrudur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Solunum yapıp yapmadığı Heimlich manevrası ile kontrol edilir.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kalp masajı uygulamasının hızı, dakikada 50 bası olacak şekilde ayarlanır.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Göğüs kemiğine yandan bakıldığında göğüs yüksekliğinin ½’si kadar kalp basısı uygulanır.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kalp basısı uygulamak için göğüs kemiğinin alt ve üst ucu tespit edilerek alt yarısına bir elin topuğu yerleştirilir.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Çocuklarda temel yaşam desteği sırasında, göğüs kemiğinin alt yarısına bir elin topuğu yerleştirilerek kalp masajı uygulanır. Bu, doğru uygulamadır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g5_q5",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Öksüren, nefes alabilen ve tıkandığını ifade edebilen bir kazazedeye aşağıdaki ilk yardım uygulamalarından hangisi yapılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kazazedeye dokunulmadan öksürmeye teşvik edilir.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bir elin topuk kısmıyla iki kürek kemiğinin arasına 5 kez kuvvetlice vurulur.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bir elin başparmağı midenin üst kısmına, göğüs kemiği altına gelecek şekilde yumruk yaparak konur, kuvvetle arkaya ve yukarı doğru bastırılır.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kazazedenin bacakları üzerine ata biner şekilde oturulur ve bir elin topuğuyla göbeğin üzerinden kürek kemiklerine doğru eğik bir baskı uygulanır.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kazazede nefes alabiliyor ve öksürebiliyorsa, müdahale edilmeden öksürmeye teşvik edilmelidir. Bu, yabancı cismi dışarı atmasına yardımcı olur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g5_q6",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Baş ve yüzdeki ağır kanamalarda, aşağıdaki bası noktalarından hangisine basınç uygulanır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kasık",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Koltuk altı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Şah damarı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Köprücük kemiği üzeri",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Baş ve yüz bölgesindeki ağır kanamalarda şah damarına yapılan basınç, kanamayı kontrol etmek için etkili bir yöntemdir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g5_q7",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Burun kanaması olan kazazedeye hangi pozisyonu vermek gerekir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Başı geriye doğru iterek yarı oturuş",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Başı hafifçe öne doğru eğerek oturuş",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Çeneyi göğse yaklaştırarak yüz üstü yatış",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Çeneyi öne ve yukarı doğru çekerek sırtüstü yatış",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Burun kanamasında baş hafifçe öne eğilerek oturtulmalıdır. Bu pozisyon kanın soluk borusuna kaçmasını önler ve kanamanın kontrol edilmesine yardımcı olur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g5_q8",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "I. Yaşam bulguları ve yaranın durumunun değerlendirilmesi\nII. Sıvı ve enerji kaybını önlemek için ağızdan yiyecek, içecek verilmesi\nIII. Göğüste saplanmış bir cisim varsa çıkartılmadan cismin etrafının temiz bezlerle desteklenerek sabitlenmesi\n\nVerilenlerden hangileri delici göğüs yaralanmalarında yapılacak ilk yardım uygulamalarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I ve II.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve III.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Göğüs yaralanmalarında yaşam bulgularını kontrol etmek ve saplanmış bir cismin çıkarılmaması önemlidir. Cismin sabitlenmesi, kanama ve hasarın artmasını önler. Ağızdan yiyecek ve içecek verilmesi ise sakıncalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g5_q9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Resimde görülen uygulama hangi kırıkların tespiti için yapılır?",
+      "type": "image",
+      "options": [
+        {
+          "key": "a",
+          "text": "Omurga kırığı",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Üst kol kemiği kırığı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Ön kol kemiği kırığı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Köprücük kemiği kırığı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Resimde görülen bandaj uygulaması, ön kol kemiği kırıklarında kırık bölgenin hareketsiz hale getirilmesini ve sabitlenmesini sağlamak için yapılır.",
+      "mainImage": "data:image/png;base64,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"
+    },
+    {
+      "id": "ilkyardim_g5_q10",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi sara krizi yaşayan kazazedeye yapılması gereken ilk yardım uygulamalarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Krizin kendiliğinden geçmesinin beklenmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kilitlenmiş çenesinin zorla açılmaya çalışılması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "El, kol ve bacaklarının bağlanması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Şekerli içecekler içirilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Sara krizinde kazazedenin çenesinin zorla açılmaması ve hareketlerinin kısıtlanmaması gerekir. Krizin kendiliğinden geçmesi beklenmelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g5_q11",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Kan şekeri düşüklüğü yaşayan bir kazazedede aşağıdaki belirtilerden hangisi görülür?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tokluk hissi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yavaş nabız",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Görmede netlik",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yüzeysel solunum",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kan şekeri düşüklüğü yüzeysel solunuma neden olabilir. Bu durum metabolik enerji eksikliğine bağlı olarak ortaya çıkar.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g5_q12",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Bilinci kapalı, solunumu ve dolaşımı olmayan kazazedenin omuriliğine zarar vermeden araç içinden çıkarılması için aşağıdaki tekniklerden hangisi kullanılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Rentek manevrası",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Heimlich manevrası",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Ayak bileklerinden sürükleme yöntemi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Koltuk altından tutarak sürükleme yöntemi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Rentek manevrası, omuriliğe zarar vermeden kazazedeyi araçtan çıkarmak için kullanılan güvenli bir yöntemdir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 5,
+  "testId": "ilkyardim_group_5",
+  "name": "İlk Yardım Test 5"
+}

@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g8_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "I. Trafikteki bütün kuralların nedenini öğrenir.\nII. Araç kullanırken yapacağı bir kural ihlalinin sonucunda sadece maddi ceza olduğunu düşünür.\nIII. Trafik içinde yapacağı bir kural ihlalinde, kendisinin ya da sevdiklerinin canını tehlikeye attığının farkında olur.\n\nYukarıdakilerden hangileri trafik adabına sahip olan bir sürücü için söylenebilir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve III",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Trafik adabı, sürücünün kuralların nedenlerini bilmesi ve kural ihlallerinin ciddi sonuçlar doğurabileceğini fark etmesiyle ortaya çıkar.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g8_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Aracı arıza yaptığı için yolda kalmış ve trafiğin aksamasına sebep olmuş sürü- cünün sorununa, yoldan geçen diğer bir sürücünün durup çözüm bulması hâli, trafikte hangi temel değere sahip olunduğuna örnektir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yardımlaşmaya",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Öfke duygusuna",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bencil davranmaya",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aşırı tepki göstermeye",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Yolda karşılaşılan sorunlarda birbirine yardım etmek, trafikte yardımlaşma ilkesinin somut bir örneğidir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g8_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Kırmızı ışıkta beklerken ışık sarıya döner dönmez önündeki araca korna çalan sürücünün, ışığın yeşile dönmesi için 1 saniye bile bekleyememesi durumu, bu sürücünün trafikte hangi temel değere sahip olmadığını gösterir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfke",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İnatlaşma",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sabır",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aşırı tepki",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Işığın değişimine sabır gösterememek, sürücünün sabırsızlık özelliğinin eksikliğini ortaya koyar.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g8_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Bir olay ya da durumda, karşımızdaki kişi hakkında herhangi bir yargıda bulunmadan önce kendimizi onun yerine koyarak olayı/ durumu onun gibi yaşamamız anlamına gelmektedir.\n\nYukarıdaki açıklama, trafik adabı açısından da çok ciddi bir öneme sahip olan hangi davranış özelliğine aittir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfke",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Empati",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bastırma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Engellenme",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Empati, karşımızdakinin durumunu anlamak ve ona göre davranmak anlamına gelir; bu da trafikte karşılıklı saygıyı artırır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g8_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Trafikte yaşanan öfke duygusu aşağıdakilerden hangisine yol açabilmektedir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kural ihlallerinin azalmasına",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Direksiyon hâkimiyetinin artmasına",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kazaya karışma olasılığının azalmasına",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sürücülük yeteneğinin olumsuz yönde etkilenmesine",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Öfke, sürücünün dikkatini dağıtarak ve reflekslerini zayıflatarak güvenli sürüş yeteneğini olumsuz etkiler.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g8_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi trafikte bireye yapılan hak ihlallerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aşırı hız yapmaktan kaçınılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Geçiş önceliğine sahip araçlara yol verilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Engelli kişiler için ayrılmış yerlere park edilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafikte sürücülerin tek başına olmadığının düşünülmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Engelli bireyler için ayrılmış park yerlerinin izinsiz kullanılması, trafik kurallarının ihlali ve temel hakların gaspı anlamına gelir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 8,
+  "testId": "trafikadabi_group_8",
+  "name": "Trafik ve Çevre Test 8"
+}

@@ -1,0 +1,104 @@
+{
+  "categoryId": "trafikadabi",
+  "categoryName": "Trafik Adabı",
+  "color": "#9b59b6",
+  "totalGroups": 19,
+  "totalQuestions": 114,
+  "groups": [
+    {
+      "groupNumber": 1,
+      "groupId": "trafikadabi_group_1",
+      "file": "trafikadabi_group-1.json"
+    },
+    {
+      "groupNumber": 2,
+      "groupId": "trafikadabi_group_2",
+      "file": "trafikadabi_group-2.json"
+    },
+    {
+      "groupNumber": 3,
+      "groupId": "trafikadabi_group_3",
+      "file": "trafikadabi_group-3.json"
+    },
+    {
+      "groupNumber": 4,
+      "groupId": "trafikadabi_group_4",
+      "file": "trafikadabi_group-4.json"
+    },
+    {
+      "groupNumber": 5,
+      "groupId": "trafikadabi_group_5",
+      "file": "trafikadabi_group-5.json"
+    },
+    {
+      "groupNumber": 6,
+      "groupId": "trafikadabi_group_6",
+      "file": "trafikadabi_group-6.json"
+    },
+    {
+      "groupNumber": 7,
+      "groupId": "trafikadabi_group_7",
+      "file": "trafikadabi_group-7.json"
+    },
+    {
+      "groupNumber": 8,
+      "groupId": "trafikadabi_group_8",
+      "file": "trafikadabi_group-8.json"
+    },
+    {
+      "groupNumber": 9,
+      "groupId": "trafikadabi_group_9",
+      "file": "trafikadabi_group-9.json"
+    },
+    {
+      "groupNumber": 10,
+      "groupId": "trafikadabi_group_10",
+      "file": "trafikadabi_group-10.json"
+    },
+    {
+      "groupNumber": 11,
+      "groupId": "trafikadabi_group_11",
+      "file": "trafikadabi_group-11.json"
+    },
+    {
+      "groupNumber": 12,
+      "groupId": "trafikadabi_group_12",
+      "file": "trafikadabi_group-12.json"
+    },
+    {
+      "groupNumber": 13,
+      "groupId": "trafikadabi_group_13",
+      "file": "trafikadabi_group-13.json"
+    },
+    {
+      "groupNumber": 14,
+      "groupId": "trafikadabi_group_14",
+      "file": "trafikadabi_group-14.json"
+    },
+    {
+      "groupNumber": 15,
+      "groupId": "trafikadabi_group_15",
+      "file": "trafikadabi_group-15.json"
+    },
+    {
+      "groupNumber": 16,
+      "groupId": "trafikadabi_group_16",
+      "file": "trafikadabi_group-16.json"
+    },
+    {
+      "groupNumber": 17,
+      "groupId": "trafikadabi_group_17",
+      "file": "trafikadabi_group-17.json"
+    },
+    {
+      "groupNumber": 18,
+      "groupId": "trafikadabi_group_18",
+      "file": "trafikadabi_group-18.json"
+    },
+    {
+      "groupNumber": 19,
+      "groupId": "trafikadabi_group_19",
+      "file": "trafikadabi_group-19.json"
+    }
+  ]
+}

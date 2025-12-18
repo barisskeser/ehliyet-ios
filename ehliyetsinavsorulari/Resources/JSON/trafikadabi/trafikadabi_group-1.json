@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g1_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Sürücü, trafik içinde yapacağı bir kural ihlalinde kendisinin ya da sevdiklerinin canını tehlikeye attığının farkında olmalıdır. Bu farkındalığı kazanmak için yapılması gereken aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafikteki her kuralın altında yatan güvenlik gerekçelerinin sorgulanıp öğrenilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kural ihlalinin sonucunda sadece maddi ceza olduğunun düşünülmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Karşılıklı saygının öncelikle başkalarından beklenmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kızgın ve yarışmacı motivasyon ile araç kullanılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Bu sayede, sürücü kural ihlallerinin sonuçlarını daha iyi anlayarak, trafikte daha dikkatli ve düşünceli bir şekilde araç kullanabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g1_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Sürücünün trafik ortamında yaptığı davranışlardan hangisi, diğer sürücülerin dikkatinin dağılmasına ya da paniğe kapılmalarına sebep olabilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Davranışlarının sonuçlarını düşünerek hareket etmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sürekli şerit değiştirerek (slalom yaparak) araç kullanması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Aracını kullanırken trafik kurallarının bilincinde olması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafik içindeki davranışlarının sorumluluğunu üstlenerek araç kullanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Bu tür davranışlar, sürücülerin emniyetini tehlikeye sokabilir ve trafikte güvenlik riske atılabilir. Bunun yerine, sürücülerin davranışlarının sonuçlarını düşünerek hareket etmeleri, trafik kurallarını bilinçli bir şekilde uygulayarak araç kullanmaları ve trafik içindeki davranışlarını sorumluluk üstlenerek gerçekleştirmesi daha uygun ve güvenli olacaktır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g1_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Ters yönden gelen bir sürücüye “Bu sokak tek yönlü, herhalde siz girişteki levhayı görmediniz, lütfen daha dikkatli olun.” diyen bir sürücü, trafikte aşağıdaki değerlerden hangisine uygun davranmıştır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "İnatlaşmaya",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Aşırı tepki göstermeye",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kaba ve saldırgan davranmaya",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafik kültüründe birbirini uyarmaya",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Bu tavır, inatlaşmaya, aşırı tepki göstermeye ve kaba ve saldırgan davranmaya kıyasla daha düşünceli ve yapıcıdır. Trafikte birbirimizi uyarmak, özellikle de tehlikeli durumların önlenmesi için önemlidir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g1_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Geçilmekte olan araç sürücüsünün yavaşlayıp geçme yapan araca kolaylık sağlaması durumu, trafikte aşağıdaki değerlerden hangisiyle ifade edilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bencillik",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İnatlaşmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Diğergamlık",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sorumsuzluk",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Diğergamlık, trafikte birbirimizi düşünerek, kolaylık sağlamaya çalışan bir tavırdır. Bu tavır, bencillik, inatlaşmak ve sorumsuzluk gibi değerlerle kıyaslandığında daha saygılı ve düşüncelidir. Trafikte birbirimizi düşünmek ve diğer sürücülere kolaylık sağlamaya çalışmak, trafik akışının düzenli ve güvenli bir şekilde sürdürülmesine yardımcı olur.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g1_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisinin trafikte öfke duygusuna kapılan sürücülerde görülme olasılığı diğer sürücülere göre daha fazladır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dikkatin dağılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kural ihlallerinin azalması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Direksiyon hâkimiyetinin artması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kazaya karışma olasılığının azalması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Trafikte öfke duygusuna kapılan sürücüler, dikkatlerini tehlikeleri tespit etme ve onlardan kaçınma konularına odaklamayı zorlaştıran bir durumda olabilirler. Bu nedenle, bu sürücülerde dikkat dağılması olasılığı diğer sürücülere göre daha yüksektir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g1_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "I. Orta refüjlere ve yol kenarlarına dikilen ağaçların zarar görmesi\nII. Köprü ve tünel gibi noktalarda yaşanan kazalarda ulaşımın aksaması\nIII. Trafo ve elektrik direğine çarpma gibi durumlarda kesintilerin yaşanması\nIV. Yakıt, kimyasal madde, tıbbi atık vs. yüklü araçların yaptığı kazalar neticesinde büyük ekolojik zararların görülmesi\n\nYukarıdakilerden hangileri kara yolunda meydana gelen trafik kazalarının kişiye, topluma, kamuya ve çevreye verdiği zararlardandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I ve II.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I, III ve IV.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II, III ve IV.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II, III ve IV.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Yukarıdaki bütün seçenekler kara yolunda meydana gelen trafik kazalarının kişiye, topluma, kamuya ve çevreye verdiği zararlardandır.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 1,
+  "testId": "trafikadabi_group_1",
+  "name": "Trafik ve Çevre Test 1"
+}

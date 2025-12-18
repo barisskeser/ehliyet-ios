@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g20_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi kanamalarda yapılan yanlış bir uygulamadır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kanamanın durdurulamadığı durumlarda uygun kemik üzerine turnike uygulamak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kanayan yere en yakın basınç noktasına baskı uygulamak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kanayan bölgeyi kalp seviyesinden aşağıda tutmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kanayan damarın üzerine doğrudan baskı uygulamak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Kanamalarda kanayan bölgenin kalp seviyesinden yukarı tutulması gerekir, aşağıda tutmak kanamayı artırır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g20_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, şoka girmiş kazazedeye yapılan doğru bir ilk yardım uygulaması değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Rastgele hareket ettirilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hava yolu açıklığının sağlanması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kanama varsa, hemen durdurulması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sırt üstü yatırılarak ayaklarının 30 cm kadar yükseltilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Şoktaki kazazedenin rastgele hareket ettirilmesi sakıncalıdır; sakin ve sabit tutulmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g20_q3",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "I- Kazazede sakinleştirilir, endişeleri giderilir.\nII- Kanama ciddi ise, kulağı tıkamadan temiz bezlerle kapatılır.\nIII- Kazazede bilinçsiz ise kanayan kulak üzerine yan yatırılır.\n\nKulak kanaması olan bir kazazedeye, yukarıda verilenlerden hangilerinin yapılması doğru bir ilk yardım uygulamasıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I,II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kulak kanamasında sakinleştirmek, tıkamadan kapatmak ve bilinçsizse kanayan kulak üzerine yatırmak uygundur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g20_q4",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerin hangisinde kırık olduğunda atelle tespit uygulaması yapılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kürek kemiği",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Ön kol kemiği",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kaburga kemiği",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Köprücük kemiği",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Kol-bacak gibi uzuvlardaki kırıklarda atelle tespit yapmak uygundur. Ön kol kemiği kırığında atel kullanılabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g20_q5",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Koma durumundaki kazazedeye verilecek en uygun pozisyon aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dik oturuş",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sırtüstü yatış",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Baş geride yarı oturuş",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yarı yüzüstü yan yatış",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Koma durumundaki kazazedeye, kusma ve boğulma riskini engellemek için yarı yüzüstü-yan (koma) pozisyonu verilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g20_q6",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, yaralı taşımalarında ilk yardımcının uyması gereken kurallardandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kendi can güvenliğini riske atması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kazazedeyi mümkün olduğunca çok hareket ettirmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yön değiştirirken ani dönme ve bükülmelerden kaçınması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kazazedenin baş-boyun-gövde ekseninin korunmasına özen göstermemesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Yaralı taşınırken ani dönme-bükülmelerden kaçınmak ve baş-boyun-gövde hizasını korumak önemlidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g20_q7",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Bir kaza anında, yapılan ilk yardım uygulamaları ile ilgili olarak aşağıdakilerden hangisi doğru değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Mevcut araç-gereçlerle yapılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hayat kurtarıcı uygulamalar olması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Olay yerinde bulunan kişiler tarafından yapılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Müdahale için doktor ya da sağlık personelinin beklenmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "İlk yardım, olay yerinde derhal yapılması gereken acil müdahalelerdir. Sağlık personeli beklenmemelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g20_q8",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, insan vücudunda dolaşım sistemini oluşturan yapılardan biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kan",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kalp",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Eklemler",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kan Damarları",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Dolaşım sistemi kalp, kan ve damar yapılarını içerir; eklemler bu sisteme dahil değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g20_q9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "İlk yardımın ABC'si olarak nitelendirilen uygulamalardan 'C' neyi ifade eder?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Solunumun değerlendirilmesini",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kan dolaşımının değerlendirilmesini",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sindirim sisteminin değerlendirilmesini",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hava yolu açıklığının değerlendirilmesini",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "İlk yardımın ABC'sinde C harfi, ‘Circulation’ yani dolaşımın değerlendirilmesini temsil eder.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g20_q10",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Kazazedede boyun travması yoksa, hava yolunu açmak için verilebilecek en uygun baş pozisyonu aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sırtüstü yatırılmış kazazedenin çenesi kaldırılırken diğer el ile alından bastırılarak başın geriye alınması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Çenenin göğüs kemiğine değecek şekilde başın öne eğilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Başın sert bir zeminde hafif yana dönük olması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Başın sert bir zeminde düz pozisyonda olması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Boyun travması yoksa baş geri-çene yukarı yöntemiyle hava yolu açılır; bu pozisyon en uygun olanıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g20_q11",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "    I- Toplardamar kanamalarında, kan koyu renkli, yavaş ve sürekli akış halindedir.\n   II- Atardamar kanamalarında, kan açık renkli ve kalp atımları ile uyumlu olarak kesik kesik akar\n\nYukarıda kanamalarla ilgili olarak verilenler için ne söylenebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I doğru",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yalnız II doğru",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Her ikisi de doğru",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Her ikisi de yanlış",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Sürükleme yöntemi, hem ağır yaralıların hem de dar alanlardan çıkarılması güç kazazedelerin güvenli taşınmasında kullanılır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g20_q12",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Yetişkinlerde uygulanan dış kalp masajında göğüs kemiğine dakikada kaç kez bası yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "40",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "60",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "80",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "100",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Bebeklerde dış kalp masajı yaklaşık dakikada 100 kez olacak hızda uygulanır.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 20,
+  "testId": "ilkyardim_group_20",
+  "name": "İlk Yardım Test 20"
+}

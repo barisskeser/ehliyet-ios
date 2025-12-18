@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g5_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Trafik adabı aşağıdakilerden hangisini belirler?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafik içinde hatalı davranış sergileyen sürücülerin uyarılmaması gerektiğini",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bir toplumdaki kişilerin birbirlerine karşı davranışlarıyla trafik ortamındaki davranışlarının farklı olduğunu",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Öfkeli araç kullanmaya eğilimli olmak ile saldırgan sürücülük davranışlarının birbirleriyle ilişkili olmadığını",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafik kurallarının kişiler tarafından ve her koşulda güvenliği sağlamak amacıyla uygulanıp uygulanmayacağını",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafik adabı, bireylerin trafik kurallarını ne derece benimseyip uygulayacaklarını ve bu kurallara uyarak herkesin güvenliğini sağlama sorumluluğunu belirler. Bu, trafik kurallarının temel amacını oluşturur.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g5_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi trafik ortamında sürücülerin en fazla ihtiyaç duyacakları değerlerdendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfke",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hoşgörü",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "İnatlaşma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aşırı tepki",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Hoşgörü, trafik ortamında stres ve agresif davranışları önlemeye yardımcı olur ve herkesin güvenliğini sağlar.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g5_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Trafik ortamında bazen hak kendinizden yana iken bile bu hakkınızı diğer sürücüye vermek size bir şey kaybettirmeyeceği gibi daha huzurlu bir trafik ortamı sağlamaya katkıda bulunacaktır.\n\nYukarıdaki açıklama trafikteki temel değerlerden hangisine aittir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sabırsızlık",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Saldırganlık",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Tahammülsüzlük",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Feragat ve fedakârlık",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Feragat ve fedakârlık, trafikte hakkınızı paylaşarak daha huzurlu bir ortam oluşturmanıza katkıda bulunur.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g5_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Aracını kaldırıma park etmiş bir sürücü, diğer yol kullanıcılarının kaldırımı kullanmasına engel olduğu gibi kaldırımı kullanamayan yayaların araç yoluna çıkmalarına neden olmaktadır. Oysaki - - - - düzeyi yüksek bir sürücü, kendini yaya olan yol kullanıcısının yerine koyar ve aracını kaldırıma park etmez.\n\nVerilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "öfke",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "empati",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "bencillik",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "sorumsuzluk",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Empati, bir kişinin kendini diğerinin yerine koyarak hareket etmesi anlamına gelir ve trafik ortamında önemli bir erdemdir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g5_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi, trafik denetim görevlileriyle iletişim kuran sürücünün trafik adabı açısından özen göstermesi gereken davranışlardandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Empati kurmaktan kaçınmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Dinlemeyi etkin şekilde yapmamak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Karşısındaki kişiye saygı duyarak varlığını kabul etmek",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Karşısındaki kişinin ne demek istediğini gözden geçirmek yerine akıl okumak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Trafik denetim görevlileriyle iletişim sırasında karşısındaki kişiye saygı göstermek, trafik adabının temel bir gereğidir ve iletişimde önemli bir yer tutar.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g5_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdaki davranışlardan hangisi trafikte bireye yapılan hak ihlallerinden biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafik kurallarına riayet edilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "En soldaki şeridin sürekli işgal edilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hız sınırlamalarının üstünde araç kullanılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Engelli kişiler için ayrılmış yerlere park edilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Trafik kurallarına riayet edilmesi hak ihlali değil, kurallara uyum göstermek anlamına gelir. Diğer davranışlar hak ihlalleridir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 5,
+  "testId": "trafikadabi_group_5",
+  "name": "Trafik ve Çevre Test 5"
+}

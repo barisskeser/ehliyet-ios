@@ -1,0 +1,18 @@
+{
+  "category": "Motor",
+  "categoryId": "motor",
+  "totalItems": 11,
+  "items": [
+    {"id": 1, "title": "Aracın Stop Ettirilmesi Gereken Durumlar", "fileName": "motor1.html"},
+    {"id": 2, "title": "Araç Göstergeleri ve Kontrolleri", "fileName": "motor2.html"},
+    {"id": 3, "title": "Araç Kullanımına Hazırlık", "fileName": "motor3.html"},
+    {"id": 4, "title": "Manuel Vitesli Araç", "fileName": "motor4.html"},
+    {"id": 5, "title": "Araç Parçaları", "fileName": "motor5.html"},
+    {"id": 6, "title": "Araçlarda Sık Karşılaşılan Problemler", "fileName": "motor6.html"},
+    {"id": 7, "title": "Araçların Fazla Yakıt Yakma Sebepleri", "fileName": "motor7.html"},
+    {"id": 8, "title": "Araçların Periyodik Bakımları", "fileName": "motor8.html"},
+    {"id": 9, "title": "Güç Aktarma Organları", "fileName": "motor9.html"},
+    {"id": 10, "title": "Motor Tipleri ve Çalışma Şekilleri", "fileName": "motor10.html"},
+    {"id": 11, "title": "Sürücülerin Bilmesi Gereken Bazı Basit Bilgiler", "fileName": "motor11.html"}
+  ]
+}

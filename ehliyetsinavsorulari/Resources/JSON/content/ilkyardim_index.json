@@ -1,0 +1,14 @@
+{
+  "category": "İlk Yardım",
+  "categoryId": "ilkyardim",
+  "totalItems": 7,
+  "items": [
+    {"id": 1, "title": "Bilinç Bozukluklarında İlk Yardım Uygulaması", "fileName": "ilkyardim1.html"},
+    {"id": 2, "title": "Hasta/Yaralı Taşıma Teknikleri", "fileName": "ilkyardim2.html"},
+    {"id": 3, "title": "Hasta, Yaralı ve Olay Yeri Değerlendirmesi", "fileName": "ilkyardim3.html"},
+    {"id": 4, "title": "İlk Yardımın Temel Uygulamaları", "fileName": "ilkyardim4.html"},
+    {"id": 5, "title": "Kanamalar ve Yaralanmalarda İlk Yardım", "fileName": "ilkyardim5.html"},
+    {"id": 6, "title": "Kırık Çıkık ve Burkulmalarda İlk Yardım", "fileName": "ilkyardim6.html"},
+    {"id": 7, "title": "Temel Yaşam Desteği", "fileName": "ilkyardim7.html"}
+  ]
+}

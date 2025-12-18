@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g16_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Dar yoldan gelen araçlarla inatlaşma, durak harici durma, yaya geçitlerinde yol vermeme gibi sürücü davranışları ne tür sürücü davranışıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Saldırgan sürücülük",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kural ihlali",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Nezaket eksikliği",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Beceriksiz sürücülük",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Trafikte kavga, inatlaşma, saygısızlık ve benzeri davranışlar saldırgan sürücülük örnekleridir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g16_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "“Araç kullanırken cep telefonu ile ilgilenmenin görsel, bilişsel, fiziksel ve işitme ile ilgili bazı sorunların ortaya çıkmasına neden olmaktadır. “\n\nBunun sonucunda aşağıdaki  problemlerden hangisi ortaya çıkmaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tepki süresinin azalması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Doğru şeritte gidebilme",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Durma mesafesinin iyi ayarlanamaması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Uygun hızda seyredememe",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Cep telefonu kullanımında tepki süresi uzar, durma mesafesi ayarlanamaz ve hız kontrolü bozulur. 'Doğru şeritte gidebilme' bu sorunlar arasında sayılmamıştır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g16_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "“Otoyolda belli bir yere ulaşmak amacıyla otomobillerine binmiş olan ve birbirini tanımayan iki insanın, birdenbire her şeyi unutmasına, birbirleriyle kıyasıya bir yarışa girmesine, bu uğurda kendi hayatlarını bile hiçe saymalarına” ne ad verilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yol öfkesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kin",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Nefret",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sinir",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Trafikte rekabet, hırs ve öfke duyguları nedeniyle yapılan bu tür tehlikeli davranışlar 'yol öfkesi' olarak adlandırılır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g16_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Yaya geçidinde ki yayayı , bir trafik işareti veya işaretçisini gördüğü halde yavaşlamayan hatta hızını artıran bir sürücü için aşağıdakilerden hangisi söylenebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Geçiş önceliğini hakkını kullanmaktadır.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Eğer duramayacak durumdaysa hızını arttırması gereklidir.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yaptığı yasaktır ve ceza gerektirir.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bu davranışı usta şoför olduğunu gösterir.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Trafik kurallarına göre yayaya yol vermek zorunludur. Yavaşlamayıp hızını artıran sürücünün davranışı yasaktır ve ceza gerektirir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g16_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Araç bakımlarının zamanında yapılmasının önemini aşağıda verilenlerden hangisi ifade etmez?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Araç bakımlarını hem kişinin kendi can ve mal bütünlüğü koruması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İçinde yaşadığımız tabiatın zedelenmemesi,",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Gelecek nesillere yaşanılabilir bir dünya bırakmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafik cezalarından kaçınmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Araç bakımını zamanında yaptırmak, güvenlik ve çevre açısından önemlidir. Trafik cezasından kaçınmak ise asıl amaç değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g16_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Günlük yaşamımızda is arkadaşımızın olumsuz tavrı karşısında sakin ve temkinli olurken trafikte bunu yapamamamızın sebebi aşağıdakiler hangisi olamaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafikte tahrik unsurunun, karşılıklı atışmaların, kadın-erkek ayrımının daha belirgin olması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Değeri herkes için her yerde ayni şekilde gösterememek, şahsi bir daha görmeyeceğimizi düşünmek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafikteki insanların daha agresif olması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "İnsanların trafikte deşarj olması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafikte agresyonun artış nedeni genelde tahrik, bilinmezlik ve zaman baskısıdır. 'İnsanların trafikte deşarj olması' tek başına bu durumu açıklayan bir sebep değildir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 16,
+  "testId": "trafikadabi_group_16",
+  "name": "Trafik ve Çevre Test 16"
+}

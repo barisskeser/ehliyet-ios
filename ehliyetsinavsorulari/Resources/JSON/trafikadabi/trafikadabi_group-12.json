@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g12_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi, kara yolunda meydana gelen trafik kazalarının çevreye verdiği zararlardan biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Açılan çok sayıda dava ile yargı sisteminde iş yükünün artması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Orta refüjlere ve yol kenarlarına dikilen ağaçların zarar görmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Köprü, tünel gibi noktalarda yaşanan kazalarda ulaşımın aksaması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafo, elektrik direğine çarpma gibi durumlarda kesintiler yaşanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kazaların çevresel etkileri, fiziksel hasarlar ve altyapı sorunları ile ilgilidir; dava açılması ise hukuki bir meseledir, çevresel zarar kapsamına girmez.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g12_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "• Trafikte temel değerleri içselleştirerek doğru davranış göstermek\n• Trafikte karşılaşılan sorunları doğru yöntemlerle çözmek\n• Sağlıklı ve güvenli bir trafik ortamı oluşmasına katkı sağlamak\n\nVerilenler aşağıdakilerden hangisinin amacını oluşturur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Mizacın",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Beden dilinin",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafik adabının",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Konuşma üslubunun",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Bu ilke, sürücülerin trafik kurallarının ötesinde, karşılıklı saygı, empati ve anlayış çerçevesinde davranarak güvenli bir trafik ortamı oluşturmasını ifade eder.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g12_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Hangi temel değere sahip sürücü, yoğun trafikte bir dizi hâlinde gitmekte olan diğer sürücülerin önlerine geçip, trafiği daha da sıkışık hâle getirerek yoluna devam etmez?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bencil",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sorumsuz",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Görgü seviyesi düşük",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Empati düzeyi yüksek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Empati sahibi sürücüler, kendi ihtiyaçlarının yanı sıra diğer yol kullanıcılarının güvenliğini ve konforunu da göz önünde bulundururlar.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g12_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Trafikte aracıyla kırmızı ışıkta bekleyen sürücünün, ışık yeşile döndüğünde karşıya geçmek için yolu neredeyse yarılamış bir yayanın geçişini tamamlamasını beklemesi, bu sürücünün hangi davranış özelliğine sahip olduğunu gösterir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfke",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bencillik",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Diğergamlık",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sabırsızlık",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Sürücünün, yayaya öncelik tanıyarak beklemesi, kendi menfaatinden vazgeçip karşı tarafı düşünme yani diğergam bir tutum sergilediğini gösterir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g12_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi hoşgörü sahibi olmayan sürücülerin özelliklerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfkeli olmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sabırlı olmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Başarılı iletişim kurmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bencillikten uzak durmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Hoşgörüsüz sürücüler genellikle öfke kontrolünde zorluk çeker; bu davranış, trafikte agresiflik ve kural ihlallerine yol açar.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g12_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Denetim ve ceza korkusu olmadan yazılı kurallara uymanın yanı sıra yazılı olmayan, trafik içerisinde karşılıklı anlayış ve empati gerektiren davranışları oluşturma ve bu davranışları alışkanlık haline getirmedir.\n\nBu cümlede tanımı yapılan kavram, aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Mizaç",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Beden dili",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafik adabı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Konuşma üslubu",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Bu tanım, yazılı kuralların ötesinde, karşılıklı saygı, anlayış ve empati esasına dayalı trafik içi davranış biçimini, yani trafik adabını ifade eder.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 12,
+  "testId": "trafikadabi_group_12",
+  "name": "Trafik ve Çevre Test 12"
+}

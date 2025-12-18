@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g3_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "I. Ambulans ekiplerince müdahaleler yapılması\nII. Olay yerinde, ilk yardımcı tarafından temel yaşam desteği yapılması\nIII. Hastane acil servislerinde müdahale yapılması\nIV. Sağlık kuruluşuna haber verilmesi\n\nHayat kurtarma zinciri halkalarının sıralaması hangi seçenekte doğru olarak verilmiştir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I - III - II - IV",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "II - III - I - IV",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "III - II - IV - I",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "IV - II - I - III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "112'ye haber verilir, temel yaşam desteği uygulanır, sağlık ekipleri gerekli müdahaleyi yapar ve yaralı/hasta acil servise götürülür.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g3_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "İlk değerlendirilmesi yapılan kazazedenin bilincinin kapalı olduğu ve solunumunun olmadığı belirlendiyse bu kazazedeye aşağıdaki ilk yardım uygulamalarından hangisi yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Temel yaşam desteği uygulanmalıdır.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yarı yüzükoyun-yan pozisyon verilmelidir.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Vücudu ıslak havlu ya da çarşafla sarılmalıdır.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bir elin topuğu ile sırtına 5 kez süpürür tarzda vurulmalıdır.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Hayat kurtarmak için havayolunu açmak ve sonrasında kalbi durmuş kişiye yapay solunum ile akciğerlerine oksijen gitmesini, dış kalp masajı ile de kalpten kan pompalanmasını sağlayarak dokulara yeterli düzeyde kan gitmesini sağlamak üzere yapılan ilaçsız müdahalelerdir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g3_q3",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Kazazedelere baş geri-çene yukarı pozisyonu verilmesinin nedeni aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kusmayı sağlamak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hava yolunu açmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kalp masajı yapmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bilinci değerlendirmek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Hasta sert bir zemine sırt üstü kolları iki yanda yatırılmalıdır. Bilinci kapalı kişilerde dil arkaya düşüp hava yolunu tıkayabilir. Ya da herhangi bir yabancı ( kum ,toprak , diş protezi v.b.) madde solunum yolunu tıkayabilir. Bu durumda baş geriye itilip çene yukarı kaldırılarak soluk yolu açılır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g3_q4",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Yetişkinlerde temel yaşam desteği uygulaması ile ilgili olarak verilenlerden hangisi doğrudur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Göğüs kemiği 3 cm aşağı inecek şekilde bası yapılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Temel yaşam desteğine yapay solunum ile başlanması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "30 kalp masajı, 2 yapay solunum şeklinde uygulanması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kalp masajı hızının saatte 100 bası olacak şekilde ayarlanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Göğüs kemiği 5 cm aşağı inecek şekilde ( yandan bakıldığında göğüs yüksekliğinin 1/3’ü kadar) 30 kalp basısı uygulanır, bu işlemin hızı dakikada 100 bası olacak şekilde ayarlanır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g3_q5",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Solunum yolu tıkanıklığı yaşayan dört kazazedeye ait belirtiler yukarıdaki tabloda verilmiştir.\nTabloya göre bu kazazedelerden hangilerine “Heimlich manevrası” uygulanmalıdır?",
+      "type": "image",
+      "options": [
+        {
+          "key": "a",
+          "text": "I ve II.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve III.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve IV.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "III ve IV.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Nefes alamama, acı çekerek elleri boyuna götürme, konuşamama ve morarma 'tam tıkanma' belirtileridir. Bu durumda 'Heimlich manevrası' yapılır.",
+      "mainImage": "data:image/png;base64,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"
+    },
+    {
+      "id": "ilkyardim_g3_q6",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "İç kanamalar, kazazedeyi şok ve ölüme götürecek kadar kan kaybına neden olabilir.\n\nBuna göre aşağıdakilerden hangisi iç kanama yaşayan bir kazazedede kan kaybına bağlı olarak gelişen genel belirtilerden biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aşırı susuzluk hissi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Nemli ve soğuk deri",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yavaş ve güçlü nabız",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hızlı ve yüzeysel solunum",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Kan kaybına bağlı olarak gelişen genel belirtiler arasında aşırı susuzluk hissi, nemli ve soğuk deri ve hızlı ve yüzeysel solunum yer alır. Ancak, iç kanama yaşayan bir kazazede, yavaş ve güçlü nabız gibi bir belirti görülmez.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g3_q7",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Bir travma sonucu deri ya da mukozanın bütünlüğünün bozulmasına ne ad verilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şok",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yara",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Koma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Tıkanma",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Biyolojik, fiziksel ve kimyasal nedenlerle deri ya da mukoz membran bütünlüğünün bozulması, tahrip olması, dokuların kesilmesi sonucu, dokuların fizyolojik özelliklerinin geçici veya tamamen kaybolmasına yara adı verilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g3_q8",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Bilinci açık, kulağından kan gelen, göz çevresinde ve kulak arkasında morlukları olan kazazedeye, olay yerinde herhangi bir tehlike söz konusu değilse aşağıdaki ilk yardım uygulamalarından hangisi yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ayakları 45 cm yükseltilmeli",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Başı 30 cm aşağıya indirilmeli",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hareket etmemesi sağlanmalı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kulağı temiz bir bezle tıkanmalı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Bilinci açık, kulağından kan gelen, göz çevresinde ve kulak arkasında morlukları olan bir kazazede, olay yerinde herhangi bir tehlike söz konusu değilse ilk olarak kazazedenin hareket etmemesi sağlanmalıdır. Bu, kazazedenin durumunun daha da kötüleşmemesi için yapılması gereken önlemlerden birisidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g3_q9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "I. Deri bütünlüğü bozulmuştur.\nII. Kanama ve enfeksiyon tehlikesi yoktur.\n\nAçık kırık ile ilgili olarak verilenler için aşağıdakilerden hangisi söylenebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I. doğru, II. yanlış",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I. yanlış, II. doğru",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Her ikisi de doğru",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Her ikisi de yanlış",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Deri bütünlüğü bozulur, kırık uçları dışarı çıkabilir. Beraberinde kanama ve enfeksiyon tehlikesi taşır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g3_q10",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi kırık, çıkık ve burkulmaların tespiti sırasında dikkat edilmesi gereken hususlardandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yaralı bölgenin düzeltilmeye çalışılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yara varsa üzerinin temiz bir bezle kapatılmasıq",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Tespit yapılırken yaralı bölgenin hareket ettirilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Tespit edilecek bölgenin sadece sert malzeme ile kaplanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "İlk yardımcı kırık, çıkık ve burkulmalarda müdahalede bulunmamalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g3_q11",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi ateşli havalede yapılan hatalı ilk yardım uygulamalarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Karın ve göğüs bölgesi üzerine direkt olarak buz konulması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Musluk suyu ile ıslatılan havlu veya küçük bez parçalarıyla ateşi düşmüyorsa kazazedenin oda sıcaklığındaki su ile yıkanması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kazazedenin koltuk altlarına, kasıklarına, dirseklerin iç yüzü ve avuç içlerine ıslak bez yerleştirilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kazazedenin giysilerinin çıkartılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Havalede karın ve göğüs bölgesine buz konulması, havalenin iyileşme sürecini hızlandırır ve ağrıyı azaltır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g3_q12",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "• İlk yardımcı sol kolu ile omzundan tutarak kazazedeyi oturur duruma getirir.\n• Çömelerek sağ kolunu kazazedenin bacaklarının arasından geçirir.\n• Kazazedenin vücudunu sağ omzuna alır.\n• Sol el ile kazazedenin sağ elini tutar, ağırlığı dizlerine vererek kalkar.\n• Kazazedenin önde boşta kalan bileğini kavrayarak kazazedeyi hızla olay yerinden uzaklaştırır.\n\nYukarıda uygulama basamakları verilen acil taşıma tekniği hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Rentek manevrası",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Ayak bileklerinden sürükleme",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Koltuk altından tutarak sürükleme",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "İtfaiyeci yöntemi ile omuzda taşıma",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Yürüyemeyen yada bilinci kapalı olan kişiler için kullanılır. Bir ilkyardımcı tarafından uygulanır. İlkyardımcının bir kolu boşta olacağından merdiven yada bir yerden rahatlıkla destek alınabilir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 3,
+  "testId": "ilkyardim_group_3",
+  "name": "İlk Yardım Test 3"
+}

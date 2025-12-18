@@ -1,0 +1,25 @@
+{
+  "category": "Ehliyet Sınıfları",
+  "categoryId": "ehliyetsiniflari",
+  "totalItems": 18,
+  "items": [
+    {"id": 1, "title": "Ehliyet Sınıfları ve Kapsamları", "fileName": "ehliyetsiniflari1.html"},
+    {"id": 2, "title": "A Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari2.html"},
+    {"id": 3, "title": "A1 Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari3.html"},
+    {"id": 4, "title": "A2 Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari4.html"},
+    {"id": 5, "title": "B Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari5.html"},
+    {"id": 6, "title": "B1 Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari6.html"},
+    {"id": 7, "title": "BE Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari7.html"},
+    {"id": 8, "title": "C Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari8.html"},
+    {"id": 9, "title": "C1 Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari9.html"},
+    {"id": 10, "title": "C1E Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari10.html"},
+    {"id": 11, "title": "CE Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari11.html"},
+    {"id": 12, "title": "D Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari12.html"},
+    {"id": 13, "title": "D1 Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari13.html"},
+    {"id": 14, "title": "D1E Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari14.html"},
+    {"id": 15, "title": "DE Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari15.html"},
+    {"id": 16, "title": "F Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari16.html"},
+    {"id": 17, "title": "G Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari17.html"},
+    {"id": 18, "title": "M Sınıfı Sürücü Belgesi", "fileName": "ehliyetsiniflari18.html"}
+  ]
+}

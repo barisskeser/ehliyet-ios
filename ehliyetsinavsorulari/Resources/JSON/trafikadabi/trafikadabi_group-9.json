@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g9_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Trafik içinde sorumluluk, yardımlaşma, tahammül, saygı, fedakârlık, sabır vb. değerlere sahip olabilme yetisidir. Bu cümlede tanımı yapılan kavram, aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Mizaç",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Beden dili",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafik adabı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Konuşma üslubu",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Trafikte, bireylerin birbirine karşı gösterdiği sorumluluk, saygı ve anlayış gibi davranışlar 'trafik adabı' kavramı altında toplanır. Bu değerler, güvenli ve düzenli bir trafik ortamının oluşmasında kritik rol oynar.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g9_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Ailesi ile birlikte yolculuk yapan bir sürücü, aracını hız limitlerini aşarak sürdüğünde ailesinin hayatını da tehlikeye atmış olacaktır. Bu sürücü, hız ihlalinden kaynaklanan olası bir kazada sevdiklerinin canını riske atmakla trafikte hangi temel değeri yerine getirmemiş olur? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hırçınlık",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sorumluluk",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bencillik",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hoşnutsuzluk",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Hız limitlerinin aşılması, sürücünün hem kendisinin hem de yolcularının güvenliğini tehlikeye atar. Bu davranış, temel trafik sorumluluğunun yerine getirilmemesi anlamına gelir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g9_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Bir sürücünün trafik içindeki istenmeyen durumlara öfkelenmesi ve bu öfkeyi belli etmesi yerine, hangi davranışı göstermesi hâlinde çok daha huzurlu bir trafik ortamı oluşur? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hoşgörülü olması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bencil davranması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Aşırı stres yapması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sürekli kornaya basması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Hoşgörü, sürücünün diğer yol kullanıcılarının hatalarını anlayarak sakin kalmasını sağlar. Bu tutum, gergin ve öfkeli tepkiler yerine, ortak güvenliği artırır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g9_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Ters yönden gelen bir sürücüye “Bu sokak tek yönlü, herhalde siz girişteki levhayı görmediniz, lütfen daha dikkatli olun.” diyen bir sürücü, trafikteki temel değerlerden hangisine uygun davranmıştır? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "İnatlaşmaya",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Aşırı tepki göstermeye",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kaba ve saldırgan davranmaya",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafik kültüründe birbirini uyarmaya",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Sürücü, ters yönden gelen diğer sürücüyü uyararak trafik kültürünün temel taşlarından olan karşılıklı saygı ve güvenliği desteklemiş, böylece trafikte olumlu iletişimi teşvik etmiştir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g9_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Trafikte hangi temel değere sahip olan sürücü, kendini yaya olan yol kullanıcısının yerine koyar ve aracını kaldırıma park etmekten kaçınır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Empati düzeyi yüksek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Görgü seviyesi düşük",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sorumsuz",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bencil",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Empati, sürücünün kendisini yaya olarak hayal edebilme yeteneğini ifade eder. Böylece, başkalarının güvenliğini düşünerek aracı kaldırıma park etmekten kaçınır ve trafik kültürüne katkı sağlar.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g9_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Trafik denetim görevlileriyle iletişim kuran sürücünün, trafik adabı açısından özen göstermesi gereken davranış şekli aşağıdakilerden hangisidir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Karşısındaki kişiyi suçlaması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Empati kurmaktan kaçınması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Karşısındaki kişiye saygı duyması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Karşısındaki kişiyi dinlemekten kaçınması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Trafik denetim görevlileriyle iletişim kurarken, sürücünün kibar ve saygılı olması gerekmektedir. Bu tutum, iletişimin daha sağlıklı ve verimli gerçekleşmesini sağlar.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 9,
+  "testId": "trafikadabi_group_9",
+  "name": "Trafik ve Çevre Test 9"
+}

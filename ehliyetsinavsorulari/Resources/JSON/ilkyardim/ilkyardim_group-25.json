@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g25_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "İlk yardımın ABC'si olarak kabul edilen uygulamalardan 'A' neyi ifade etmektedir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hava yolu açıklığının değerlendirilmesini",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kan dolaşımının değerlendirilmesini",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Solunumun değerlendirilmesini",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kanamanın durdurulmasını",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "İlk yardımda 'A', airway yani hava yolunun açık olup olmadığının kontrol edilmesini ifade eder.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g25_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "Ağızdan ağıza suni solunumda, verilen hava miktarının yeterliliği kazazedenin hangi durumundan anlaşılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yüzünün sararmasından",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Nabız sayısının azalmasından",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Vücut sıcaklığının azalmasından",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Göğüs kafesinin yükselmesinden",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Verilen havanın etkili olup olmadığını anlamak için göğüs kafesinin yükselmesi ana belirti olarak kullanılır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g25_q3",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "I- Sızıntı biçiminde ve hafif olması\nII- Koyu renkli ve taşma tarzında akması\nIII- Kalp atımına uyumlu şekilde fışkırarak çıkması\n\nVerilenlerden hangileri atardamar kanamalarına ait bir özelliktir",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yalnız II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yalnız III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Atardamar kanamalarında, kanın kalp atımının etkisiyle fışkırarak çıkması karakteristiktir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g25_q4",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Kanamanın fazla olduğu bacak yaralanmalarında, kanamayı azaltmak için basınç uygulanacak bölge aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kasık iç kısmı",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kolun üst kısmı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bacak dış kısmı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Karnın ön üst kısmı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Bacaklardaki kanamayı kontrol altına almak için, kan damarlarının geçtiği kasık iç bölgesine doğrudan basınç uygulanması etkilidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g25_q5",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdaki durumların hangisinde, kazazedenin bacaklarının 30 cm yukarı kaldırılması doğru bir ilk yardım uygulamasıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şok durumu",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Beyin kanaması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Ayak bölgesinden yılan sokması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Akciğer zedelenmesi ve kanaması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Şok durumunda kan dolaşımını iyileştirmek için bacakların 30 cm yukarı kaldırılması önerilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g25_q6",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisinin kendiliğinden oluşmuş burun kanamalarında yapılması yanlıştır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Temiz bir bez ile yapılan tamponun burna yerleştirilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Çeneyi göğüsten uzaklaştırarak başın geriye çekilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Burun üzerine ve enseye buz konulması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yüzün soğuk su ile yıkanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Burun kanamalarında başın geriye doğru çekilmesi, kanın boğaza kaçmasına ve solunum yolu tıkanıklığına sebep olabileceğinden kesinlikle yanlıştır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g25_q7",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Baş yaralanmalarında kafatası kırığını düşündüren en önemli bulgu hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yüzün yaralanması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "El bileğinin burkulması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Köprücük kemiğinin kırılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kulaktan ya da burundan kan ya da sıvı gelmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kafatası kırığı şüphesi olan vakalarda, kulak veya burundan kan ya da sıvı gelmesi önemli bir uyarı işaretidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g25_q8",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdaki yaralılardan hangisinin sedyesiz ve oturtularak taşınmasında tehlike yoktur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şoka girmiş olan",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Omurga kırığı olan",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kol kemiği kırık olan",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kalça kemiği kırık olan",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Kol kemiği kırıkları, omurga veya kas iskelet sistemi yaralanmalarına kıyasla sedye ile taşınma gerekliliği daha az risk taşır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g25_q9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi koma hâlinin belirtilerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kötü kokulara karşı burnunu tıkaması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sorulan sorulara anlamlı cevap vermesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Gözleri ile hareket eden cisimleri takip etmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yutkunma, öksürük gibi tepkilerin kaybolması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Koma halinde olan kişilerde reflekslerin ve temel tepkilerin kaybolması, durumun ciddiyetini gösterir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g25_q10",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Göğüste kuvvetli ağrı nedenleri arasında en sık olarak görüleni aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kalp krizi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yüksek ateş",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Görme bozukluğu",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Ayak bileğinde burkulma",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Göğüs ağrısının en ciddi ve yaygın nedeni kalp krizidir, bu nedenle doğru cevap kalp krizidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g25_q11",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi yaralı taşımalarında uyulması gereken kurallardandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kazazedenin mümkün olduğunca çok hareket ettirilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kazazedenin baş-boyun-gövde ekseni esas alınarak en az 6 destek noktasından kavranması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "İlk yardımcının kalkarken ağırlığı sırt kaslarına vermesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "İlk yardımcının kendi sağlığını riske atması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Yaralıyı taşırken, vücudun doğal eksenini koruyacak şekilde en az 6 destek noktası kullanılması, olası ikincil yaralanmaları önler.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g25_q12",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Bir trafik kazasında ilk yardım uygulamalarına ilk olarak nerede başlanmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hastanede",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Olay yerinde",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Ambulans içinde",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sağlık merkezinde",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "İlk müdahale, yaralılara en hızlı ulaşılabilecek yer olan olay yerinde başlatılmalıdır.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 25,
+  "testId": "ilkyardim_group_25",
+  "name": "İlk Yardım Test 25"
+}

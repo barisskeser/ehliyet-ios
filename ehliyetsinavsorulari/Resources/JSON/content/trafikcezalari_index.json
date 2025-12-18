@@ -1,0 +1,19 @@
+{
+  "category": "Trafik Cezaları ve Ücretleri",
+  "categoryId": "trafikcezalari",
+  "totalItems": 12,
+  "items": [
+    {"id": 1, "title": "Abart egzoz cezası", "fileName": "trafikcezalari1.html"},
+    {"id": 2, "title": "İlk Defa Alkollü Araç Kullanma Cezası", "fileName": "trafikcezalari2.html"},
+    {"id": 3, "title": "Araç Sürerken Cep Telefonuyla Konuşma Cezası", "fileName": "trafikcezalari3.html"},
+    {"id": 4, "title": "Çakar takma cezası", "fileName": "trafikcezalari4.html"},
+    {"id": 5, "title": "Drift atma cezası", "fileName": "trafikcezalari5.html"},
+    {"id": 6, "title": "Ehliyetsiz Araç Kullanma Cezası", "fileName": "trafikcezalari6.html"},
+    {"id": 7, "title": "Emniyet Şeridi İhlali Cezası", "fileName": "trafikcezalari7.html"},
+    {"id": 8, "title": "Hız Limiti Aşımı, Radar Cezası Ne Kadar?", "fileName": "trafikcezalari8.html"},
+    {"id": 9, "title": "Kırmızı Işıkta Geçme Cezası Ne Kadar?", "fileName": "trafikcezalari9.html"},
+    {"id": 10, "title": "Kış Lastiği Takmama Cezası", "fileName": "trafikcezalari10.html"},
+    {"id": 11, "title": "Plakasız Araç Kullanma Cezası Ne Kadar?", "fileName": "trafikcezalari11.html"},
+    {"id": 12, "title": "Yetersiz ehliyetle araç kullanma cezası", "fileName": "trafikcezalari12.html"}
+  ]
+}

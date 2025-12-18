@@ -1,0 +1,25 @@
+{
+  "category": "Trafik ve Çevre",
+  "categoryId": "trafik",
+  "totalItems": 18,
+  "items": [
+    {"id": 1, "title": "Araç Boyutları, Yük ve Yolcu Taşımanın Kuralları", "fileName": "trafik1.html"},
+    {"id": 2, "title": "Araçlarda Bulundurulması Mecburi Gereçler", "fileName": "trafik2.html"},
+    {"id": 3, "title": "Araçlarda Takip Mesafesi", "fileName": "trafik3.html"},
+    {"id": 4, "title": "Araçların Işıklandırılması ve Araçlardaki Işıkların Kullanımı", "fileName": "trafik4.html"},
+    {"id": 5, "title": "Duraklama, Durma ve Park Kuralları", "fileName": "trafik5.html"},
+    {"id": 6, "title": "Geçiş Kolaylığı Sağlama", "fileName": "trafik6.html"},
+    {"id": 7, "title": "Geçiş Üstünlüğü Olan Araçlar", "fileName": "trafik7.html"},
+    {"id": 8, "title": "Karayollarında Araç Sürme Yasağı", "fileName": "trafik8.html"},
+    {"id": 9, "title": "Kavşaklarda Geçiş Hakkı", "fileName": "trafik9.html"},
+    {"id": 10, "title": "Kurullar, Kuruluşlar Görev ve Yetkileri", "fileName": "trafik10.html"},
+    {"id": 11, "title": "Motosiklet, Bisiklet ve Türevleri İle İlgili Sürme Kuralları", "fileName": "trafik11.html"},
+    {"id": 12, "title": "Otoyollarla İlgili Kurallar", "fileName": "trafik12.html"},
+    {"id": 13, "title": "Öndeki Aracı Geçme", "fileName": "trafik13.html"},
+    {"id": 14, "title": "Trafik Işıkları ve Anlamları", "fileName": "trafik14.html"},
+    {"id": 15, "title": "Trafik Kazalarında Asli ve Tali Kusurlar", "fileName": "trafik15.html"},
+    {"id": 16, "title": "Trafik Suçları ve Karşılığı Cezalar, Ceza Puanları", "fileName": "trafik16.html"},
+    {"id": 17, "title": "Trafikte Dönüş ve Manevra Kuralları", "fileName": "trafik17.html"},
+    {"id": 18, "title": "Virajlarda Araç Kullanma", "fileName": "trafik18.html"}
+  ]
+}

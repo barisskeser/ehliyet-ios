@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g17_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Üç şeritli, akıcı ve tek yönlü bir yolda en soldaki aracın iki şerit atlayarak en sağdaki şeride girmesi diğer sürücüler için tehdit unsuru oluşturmaktadır. Hatalı sürücü için aşağıdakilerden hangisi geçerlidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Saygı",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bencil olma",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hoşgörü",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sabır",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Trafikte ani ve tehlikeli manevralar yapmak, diğer sürücüleri riske atar. Bu davranış bencillik örneğidir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g17_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Trafiğin yoğun olduğu okul önündeki caddelerde öğrencilerin çıkış saatinde trafik polisi tarafından yapılan trafik yönlendirmesinin sebebi aşağıdakilerden hangisi olamaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öğrenciler için güvenli bir karşıdan karşıya geçiş sağlamak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sürücülerde trafik algısı oluşturmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Öğrencilere trafik bilgisini aşılamak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Herkesin kendi bildiği gibi hareket etmesini sağlamak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafik polisi, özellikle öğrencilerin güvenliği ve trafik düzeni için yönlendirme yapar. ‘Herkesin kendi bildiği gibi hareket etmesi’ bu amacı tamamen tersine çevirir ve bu nedenle doğru cevap olamaz.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g17_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Sürücülerin yoğun trafikte, trafik ışığının kırmızı yandığında trafik ihlalini gerçekleştireceğini bildiği halde geçiş yapması hangi davranışa örnektir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dürüst",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Saygılı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sevecen",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bencil",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kırmızı ışık kuralını ihlal etmek, hem tehlikelidir hem de diğer sürücülere saygı göstermemek anlamına gelir. Bu bencilce bir davranıştır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g17_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdaki davranışlardan hangisi trafikte seyir halindeyken yapılan doğru bir davranıştır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Cep telefonuyla konuşmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Araçta sigara içmek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bayanların araçlarını sıkıştırmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Tali yola yaklaşırken hız düşürmek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Tali yola yaklaşırken hız düşürmek, olası riskleri azaltmak için yapılan en doğru davranıştır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g17_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Aracındaki sinyal lambalarının çalışmadığını bilen ve aracını bu şekilde kullanan bir sürücü için aşağıdakilerden hangisi söylenemez?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Çok iyi araç kullanmaktadır",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Trafiği tehlikeye düşürmektedir",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sorumluluk sahibidir",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kendine güvenmektedir",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Sinyal lambaları arızalı bir aracı kasıtlı olarak kullanmak sorumsuzluktur. Dolayısıyla ‘sorumluluk sahibidir’ ifadesi bu sürücü için söylenemez.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g17_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Emniyet kemeriyle ilgili aşağıda verilenlerden hangisi doğrudur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şehir içinde emniyet kemeri takma zorunluluğu yoktur.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Araçta sadece ön koltuklarda emniyet kemeri vardır.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Araçta bulunan emniyet kemerleri çalışmıyorsa araç muayeneden kalır.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Araç düşük hızda kaza yaptığında sürücüye hiç bir faydası olmaz.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Araç muayene şartlarından biri, emniyet kemerlerinin çalışır durumda olmasıdır; bu nedenle çalışmayan kemerlerle muayeneden kalınır.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 17,
+  "testId": "trafikadabi_group_17",
+  "name": "Trafik ve Çevre Test 17"
+}
