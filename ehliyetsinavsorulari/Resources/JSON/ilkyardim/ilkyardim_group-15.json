@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g15_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "• Ayaklarının pedala sıkışmadığından emin olunur.\n• Yan tarafından yaklaşılır ve bir elle kolu, diğer elle çenesi kavranarak hafif hareketlerle boynu tespit edilir.\n• Baş-boyun-gövde hizasını bozmadan araçtan dışarı çekilir.\n\nUygulama basamakları verilen ve kazazedenin araçtan çıkarılmasında kullanılan teknik, aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Rentek manevrası",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İtfaiyeci yöntemi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Heimlich manevrası",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Ayak bileklerinden sürükleme yöntemi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Rentek manevrası, kazazedeyi araçtan vücut hizasını bozmadan güvenli şekilde çıkarmak için uygulanan tekniktir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g15_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi ilk yardımın öncelikli amaçlarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafik kazalarının önlenmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Mesleki başarının artırılması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hayati tehlikenin ortadan kaldırılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Ülkedeki sağlık sisteminin iyileştirilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "İlk yardımın en temel amacı, olay yerindeki hayati tehlikeyi hızla ortadan kaldırarak yaşamı kurtarmaktır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g15_q3",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Beyin, insan vücudundaki hangi sistemin bir parçasıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dolaşım sisteminin",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sindirim sisteminin",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hareket sisteminin",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sinir sisteminin",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Beyin, merkezi sinir sisteminin en önemli organıdır ve vücudun tüm fonksiyonlarını koordine eder.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g15_q4",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Kazazedenin ağız bölgesine bir cam parçası ya da ayna yaklaştırarak buharlanıp buharlanmadığına bakılması, 'Bak-Dinle- Hisset' yönteminin hangi aşamasını oluşturur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dinle",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hisset",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Dinle-Hisset",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Yapılan bu uygulama, yaralının solunum durumunu görsel olarak değerlendirme, yani 'bak' aşamasıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g15_q5",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Olay yerinde olası tehlikelerin belirlenerek güvenli bir çevrenin oluşturulması işlemi, ilk yardımın temel uygulamalarının hangisi içinde değerlendirilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Koruma",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bildirme",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kurtarma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Müdahale",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Olay yerinde tehlikelerin ortadan kaldırılarak güvenli bir alan oluşturulması, ilk yardımın 'koruma' aşamasında yer alır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g15_q6",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Kalp durmasına kısa süre içerisinde müdahale edilmezse dokuların oksijenlenmesi bozulur.Bu durum, öncelikle aşağıdaki organlardan hangisinde hasar oluşturur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Mide",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Beyin",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Karaciğer",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kalın bağırsak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Beyin, oksijen kesintilerine en duyarlı organdır ve kalp durması durumunda ilk zarar gören organlardan biridir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g15_q7",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Hangi durumdaki yetişkin bir kazazedeye, göğüs kemiği 5 cm aşağıya inecek şekilde basınç uygulanır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Solunumu düzensiz olan",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Solunum sayısı azalan",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kalbi düzensiz çalışan",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kalbi duran",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kalbi duran kazazedelerde, etkili kalp masajı için göğüs kemiğine yaklaşık 5 cm derinlikte basınç uygulanması esastır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g15_q8",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Bacakta turnike uygulama bölgesi neresidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Diz ile kalça arası",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Ayak bileğinin alt kısmı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Ayak bileğinin üst kısmı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Diz kapağının olduğu bölge",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Turnike, bacağın üst kısmı – diz ile kalça arasındaki bölgede – uygulanarak kan akışını kesmeye yardımcı olur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g15_q9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "• Kazazede düz olarak sırtüstü yatırılır.\n••Baş yana çevrilir ve çene göğüsten uzaklaştırılarak soluk yolu açılır.\n••Kazazedenin bacakları 30 cm kadar yukarı kaldırılır.\n\nİşlem basamakları verilen bu uygulamalarla ilgili olarak, öncelikle aşağıdakilerden hangisi amaçlanmıştır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şokun engellenmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kanamanın durdurulması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Zihinsel aktivitenin korunması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sindirim işlevinin rahat olması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Bu pozisyon, şok gelişimini önleyerek hayati fonksiyonların korunmasına yardımcı olmak amacıyla uygulanır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g15_q10",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Derin yaralanmaya sebep olan batıcı cisim yara üzerinde duruyorsa, aşağıdakilerden hangisi uygulanır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Cisim çıkarılır ve yaraya tentürdiyot dökülür.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Cismin dışarıda kalan kısmı cilt hizasından kesilir ve yara sıkı sarılır.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Cisim çıkarılmadan tespiti yapılır ve yaralı hastaneye sevk edilir.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Cisim çıkarılır ve yaralı hastaneye sevk edilir.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Batıcı cisim yara üzerinde sabitlenmişse, çıkarılması kanamayı şiddetlendirebileceğinden, öncelikle durum değerlendirilip hasta uzman müdahalesine sevk edilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g15_q11",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Baş, boyun ve gövde ekseninin korunmasına hangi yaralanmalarda daha çok dikkat edilmesi gerekir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Karın yaralanmalarında",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bacak yaralanmalarında",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Göğüs yaralanmalarında",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Omurga yaralanmalarında",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Omurga yaralanmalarında, vücudun doğal ekseninin korunması hayati önem taşır; bu nedenle özellikle dikkat gösterilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g15_q12",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi burkulmalarda uygulanan ilk yardım ilkeleri arasında yer alır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Burkulan eklemin kalp seviyesinden aşağıda tutulması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Burkulan eklemin sıkıştırıcı bir bandajla tespit edilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Burkulan eklemin sürekli hareket ettirilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Burkulan ekleme turnike uygulanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Burkulma durumunda, eklemin sabit kalması ve ağrının azaltılması için sıkıştırıcı bandaj uygulanması önerilir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 15,
+  "testId": "ilkyardim_group_15",
+  "name": "İlk Yardım Test 15"
+}

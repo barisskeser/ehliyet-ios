@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g11_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Yağmurlu bir günde araç sürerken kaldırımdaki yayalara su sıçratmamaya özen gösterilmesi durumu, trafikte hangi temel değere sahip olunduğuna örnektir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "İnatlaşmaya",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yardımlaşmaya",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Nezaket ve saygıya",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Konuşma üslubuna",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Yayaların güvenliğini sağlamak, trafikte nezaket ve saygının temel göstergelerinden biridir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g11_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Yayalara, özellikle de yaşlı, çocuk ve engellilere; yeşil ışık süresinde karşıya geçişi tamamlayamadığından dolayı korna çalma ya da el kol hareketleri ile çabuk geçmeye zorlama hâli, trafikte hangi temel değere sahip olunmadığını gösterir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sabır",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Öfke",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "İnatlaşma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aşırı tepki",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Yayaların güvenliğini beklemek sabır gerektirir; bu tür zorlayıcı davranış sabırsızlık belirtisidir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g11_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Trafikte hangi temel değere sahip olan sürücü, aracını park ettiği yerin diğer yol kullanıcıları açısından görme-görülme ya da manevra engeli oluşturup oluşturmadığına dikkat eder? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bencil",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sorumsuz",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Görgü seviyesi düşük",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Empati düzeyi yüksek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Empati sahibi sürücüler, kendi ihtiyaçlarının yanı sıra diğer yol kullanıcılarının güvenliğini ve konforunu da göz önünde bulundururlar.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g11_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi, öfkeyi başarılı bir şekilde yönetmek için önerilen davranışlardan biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "İletişim becerilerinin geliştirilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Alaycı ve aşağılayıcı mizaha başvurulması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Düşünme tarzının yeniden yapılandırılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Nefes egzersizlerinin öğrenilip uygulanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Alaycı ve aşağılayıcı yaklaşımlar, öfkeyi kontrol etmek yerine gerilimi artırır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g11_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Trafik kazası geçiren kişiler;\nI.Canlarına bir zarar gelmese bile psikolojik olarak zarar görürler.\nII.Kişilerin bu bozuk psikolojileri ailelerine ve topluma olumlu yansır.\n\nVerilenler için aşağıdakilerden hangisi söylenebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I doğru, II. yanlış",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I yanlış, II. doğru",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Her ikisi de doğru",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Her ikisi de yanlış",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kazazedeler, fiziksel yaralanma olmasa bile travma sonrası psikolojik stres yaşayabilir; bu durum aile ve toplum için olumlu etki yaratmaz.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g11_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi, araç kullanırken öfke duygusuna kapılan bir sürücünün kendisini sakinleştirmek için uygulaması gereken yöntemlerden biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafik ortamında gerilimli durumların olabileceğini kabul etmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Karşılaşılan durumla ilgili negatif çözümler üretmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Radyo veya müzik açması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Derin nefes alması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Negatif çözümler, öfkenin kontrolünü zorlaştırarak durumun daha da kötüleşmesine yol açar.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 11,
+  "testId": "trafikadabi_group_11",
+  "name": "Trafik ve Çevre Test 11"
+}

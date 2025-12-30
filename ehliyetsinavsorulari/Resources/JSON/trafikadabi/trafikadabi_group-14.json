@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g14_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "“Engelli sürücülerin park alanına, engelsiz bir araç sürücüsünün park etmesi durumunda ödenecek ceza tutarı hafif bir park kusuruna göre  2 kat daha fazladır.”\n\nBunun nedeni aşağıdakilerden hangisi olabilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kesilen cezalarla kişilerde farkındalık oluşturmak.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Engelli sürücülere moral vermek.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Devletin kazanç sağlaması.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Engelli sürücülere ödenek sağlamak.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Bu uygulama, engelsiz araçlara öncelik verilmesi gerektiğini vurgulamak ve park alanı kullanımında farkındalık oluşturmak amacıyla uygulanır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g14_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdaki etkinliklerden hangisi stresi azaltır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Diğer şoförlere bağırmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hız yapmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kırmızı ışıkta geçmek",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Derin nefes almak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Derin nefes alma, vücudun stres tepkisini azaltan bir teknik olup, sakinleşmeye yardımcı olur. Bu nedenle stresi azaltıcı aktivite olarak kabul edilir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g14_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "'Direksiyon sınavı eğitimlerinin  yapıldığı alanlarda “Bu alan sürücü eğitimi alanıdır”  ve eğitim araçlarında “Sürücü Adayı” yazmaktadır.'\n\nAdaylar akan trafikte eğitim görürken veya direksiyon sınavına girdiklerinde diğer sürücüler tarafından hızlı gitmediği, hatalı sürdüğü veya acemiliğin getirdiği doğal süreçlerden ötürü türlü hatalar yapmaları ve devamında diğer araç sürücüleri tarafından el ile, söz ile ya da araçlarını kırmak suretiyle yapmış oldukları davranışların sebebi aşağıdakilerden hangisi olamaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Psikolojik problemlerinin olduğunu",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bencil olduklarını",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Empati yeteneklerini gelişmiş olduğunu",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yeterince terbiye alamadıklarını",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Diğer seçenekler, adayların deneyimsizliğini ve kişisel özelliklerini yansıtırken; empati yeteneğinin gelişmiş olması, sürüş hatası veya acelecilik ile ilişkilendirilemez.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g14_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Emniyet şeritlerinin kullanım amacı aşağıdakilerden hangisi olamaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ambulans’ın hasta taşıması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Görevi dışında çakar kullanan araçların ulaşım yoludur.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafik kazalarında güvenli alan olarak kullanma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Acil durumda durma veya duraklama",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Emniyet şeritleri, aslında acil durumlar, kaza sonrası güvenli bölge oluşturma veya ambulans gibi acil araçlar için ayrılmıştır. Ancak, görev dışı araçların ana ulaşım yolu olarak kullanılması yasaktır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g14_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi kişinin hem kendisi hem de akan trafikte diğer sürücüler için yapacağı riskli davranışlara örnek olarak değerlendirilemez?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aşırı hız yapmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Emniyet kemeri takmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Uyuşturucu etkisi altında araç kullanmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Alkollü araç kullanmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Emniyet kemeri takmak, araç içi güvenliği artıran ve kazalarda yaralanma riskini azaltan bir önlemdir. Dolayısıyla riskli davranış kapsamında değerlendirilmez.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g14_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "'Egzoz Gazı Emisyon Ölçümü trafikte seyreden motorlu kara taşıtlarından kaynaklanan Egzoz Gazı Emisyonları'nın kontrolüne dair hazırlanan yönetmelik gereğince yapılır.'\n\nTrafikte çevrilen bir aracın geçerli bir egzoz emisyon ölçümü yoksa bunun ceza miktarının çok yüksek olduğu görülmektedir. Bunun nedeni aşağıdakilerden hangisi olabilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aracın kaza yapma riskinin yüksek olması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Araç sürücüsünün ve araç içerisindekilerin zehirlenme ihtimallerinin olması.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Araçta yangın riskinin oluşması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Çevre kirliliğini engellemek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Egzoz gazı emisyon ölçüm uygulaması esas olarak çevre kirliliğini önlemeye yöneliktir. Bu nedenle, aracın geçerli bir ölçümü bulunmadığında, çevreye zararlı emisyon salma riski dikkate alınarak ceza daha yüksek belirlenir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 14,
+  "testId": "trafikadabi_group_14",
+  "name": "Trafik ve Çevre Test 14"
+}

@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g13_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Sürücünün trafik ortamında yaptığı hangi davranış, diğer sürücülerin dikkatinin dağılmasına ya da paniğe kapılmalarına sebep olabilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Davranışlarının sonuçlarını düşünerek hareket etmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Aracını kullanırken trafik kurallarının bilincinde olması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Başkalarının canına ya da malına zarar verme sorumluluğunu üstlenerek araç kullanması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sürekli şerit değiştirerek (slalom yaparak) araç kullanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Sürekli şerit değiştirmek, diğer sürücülerin dikkatini dağıtarak kargaşa ve panik yaratır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g13_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Kentlerimizin en büyük sorunlarından biri olan trafik sıkışıklığında trafiği açmayacağını bile bile sürekli korna çalarak, çevrede bulunanların gürültü kirliliğine maruz bırakılması hâli, trafikte hangi temel değere\n\nsahip olunmadığını gösterir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfke",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sabır",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "İnatlaşma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aşırı tepki",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Sürekli korna çalmak, sabırsızlık belirtisidir; bu durum trafikte sabrın yetersiz olduğunu gösterir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g13_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Sürücünün aracını hareket ettirmesiyle birlikte trafikteki diğer yol kullanıcıları ile iletişimi başlar ve aracını park edinceye kadar da bu iletişim sürer.\n\nBuna göre, aşağıdakilerden hangisi trafikte olumlu yönde iletişim kurma becerisine örnektir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Korkutmak veya şaşırtmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Su, çamur ve benzerlerini sıçratmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sola ya da sağa dönüş yapmadan önce sinyal vermek",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sigara külü ve izmaritlerini veya başka şeyleri yola atıp dökmek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Olumlu trafik iletişimi, dönüş sinyali vererek diğer sürücülere niyetinizi bildirmenizle sağlanır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g13_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "I. Dikkatin dağılması\nII. Kural ihlallerinin artması\nIII. Sabırsızlık ve tahammülsüzlüğün azalması\n\nVerilenlerden hangilerinin, trafikte öfke duygusuna kapılan sürücülerde görülme olasılığı diğer sürücülere göre daha fazladır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Öfke, sürücünün dikkatini dağıtır ve kural ihlallerine neden olur; sabırsızlığın azalması beklenmez.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g13_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "- Kaza sonrası meydana gelen maddi hasar miktarı\n- İş gücü kaybının yanı sıra yaralıların tedavi süreçleri ve maliyeti\n\nTrafik kazalarıyla ilgili olarak verilenler, aşağıdakilerden hangisini olumsuz yönde etkiler?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ülke ekonomisini",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kasko sigortasının önemini",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bireylerde trafik bilincinin oluşmasını",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Taşıt güvenlik donanımlarının gelişimini",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kazalar sonucunda ortaya çıkan yüksek maddi zararlar, iş gücü kaybı ve tedavi maliyetleri ülke ekonomisinde büyük bir yük oluşturur.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g13_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi bir insana yakışmayan tavırlara örnektir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Işık kırmızıdan yeşile döndüğü anda korna veya selektörle hemen uyarıda bulunmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Otoyollarda aniden trafik sıkıştığında arkadaki sürücüleri uyarmak için dörtlüleri çalıştırmak.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafik ortamında karşı tarafın hatalarını tolere edebilecek şekilde araç kullanmak.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sisli, yağmurlu, karlı veya görüşün yetersiz olduğu durumlarda sis lambasını açmak.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kırmızı ışıktan hemen sonra uyarıda bulunmak, aceleci ve düşüncesiz bir davranış olup, trafikte nezaket ve sabır ilkesine uygun değildir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 13,
+  "testId": "trafikadabi_group_13",
+  "name": "Trafik ve Çevre Test 13"
+}

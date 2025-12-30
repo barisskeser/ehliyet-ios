@@ -1,0 +1,297 @@
+{
+  "categoryId": "motor",
+  "questionCount": 9,
+  "questions": [
+    {
+      "id": "motor_g1_q1",
+      "order": 1,
+      "categoryId": "motor",
+      "question": "Aşağıdakilerden hangisi araçlarda gücün kaynağıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şaft",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Motor",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Tekerlek",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Vites kutusu",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Araçlarda, gücün kaynağı motorlardır. Motorlar, benzin ya da dizel yakıtını yakarak harekete geçirilir ve bu sayede araç hareket edebilir. Motorlar, araçtaki diğer parçaları da harekete geçirerek araçta bulunan şaftlar, tekerlekler ve vites kutularının çalışmasını sağlar. Bu nedenle, motor araçlarda gücün kaynağı olarak kabul edilir.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g1_q2",
+      "order": 2,
+      "categoryId": "motor",
+      "question": "Aşağıdakilerden hangisi buji ile ateşlemeli motorların yakıtıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Benzin",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Motorin",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Antifriz",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Gaz yağı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Buji ile ateşlemeli motorların yakıtı benzindir. Buji ile ateşlemeli motorlar, benzin ile çalışan motorlardır ve bu tip motorlar genellikle otomobillerde kullanılır. Motorin, antifriz ve gaz yağı gibi diğer seçenekler buji ile ateşlemeli motorlar için uygun değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g1_q3",
+      "order": 3,
+      "categoryId": "motor",
+      "question": "Aracın gösterge panelinde bulunan şekildeki gösterge sürücüye neyi bildirir?",
+      "type": "image",
+      "options": [
+        {
+          "key": "a",
+          "text": "Karterdeki yağ miktarını",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Depodaki yakıt miktarını",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Soğutma suyu sıcaklığını",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Radyatördeki su seviyesini",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Soğutma suyu, motorun içinde dolaşarak motorun ısısını dışarı atmaya yardımcı olur. Eğer motorun soğutma suyu sıcaklığı çok yüksekse, bu motorun aşırı ısınabileceği anlamına gelebilir ve bu da motorun zarar görmesine neden olabilir. Bu nedenle, soğutma suyu sıcaklığı göstergesi, motorun soğutma suyu sıcaklığını kontrol etmek için kullanılır. Eğer gösterge yüksek sıcaklıklar gösteriyorsa, bu durum motorun servis edilmesi gerektiği anlamına gelebilir.",
+      "mainImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANcAAACfCAMAAABdqLyGAAAC+lBMVEX///////////////////////////////////////////////////////////////////////////////////////////////////8AAAD////////////UFHynmY0FAABPLBMCCSgEECpSHgUjAwQvZpuKAEtpADl8Qg9dk68CAyOHTRgkWpEQAgSoe0ODcVYBBRcWCQI6cqZyORQaSYMZQ3qXiYNCOT6bAFRzAj8zJh2Xl56WbUZ5pqecoakqKkspKSlbbYtMeKoxV4qvnXufbD5BJTk1W4xJR1B/qK1kOSqqj3BlkZezr51Od5xxiqJnUUrXAHQyKSpxWU2FnrAqQ3OmcTk4ByKin56VAFEgVYwqISk3MjIqJTCcnJxMJyJ6mq5CbZ84LCZdOiueckVyQikpRnhTTlCKWTN9SSbPAHBznrBZAjFqMhQ9Z5pKID6ypHcsMmI6JD+tgVFHOCSksLIxMTF+UDCmhWeKq7LbAHc3JVFolK1DBid6RiM1bKNYV1eqd0j///9/qrIZDBMuUIK2AWRAIkqFjJne3t5QPCxeKQoICAh+bFKWiG5shpVIdqSxpIoBAys2K0ZcLC+qqKchIUSDTihciq0QEBB6eXgoSnwYAA2drrFLJgtvUDUpN00pOmdahqmCclkzIzkxFAOQprDlAHxPWG+ujFs5SFVjYmOzr6UhISFmi6assbJISVemAFoQJEBiMyKcgWc9JDCysa+ZYSsSCA1aSUZ0dHSNbVosNVV4eXlpOig7Y5MpBxkyLFiuk2VMb4kpIyLfFYPAwMD19fVSf63Ly8uwnXCura0CEDtra2s5OTlSUlKZZjlIQ0UAAABRBS5CQUEkPWyUk5MjKDMKAgdhc46WmaKzsrJwcHAeMF2BSyVPTE2FhISUYjilpKSZl5dYcH4YGBjBAGidiW5RIzh+fX1VMiZKSkpsn7CHiIjr6+uMjIxqgZuRkJBfi5FdXFx/e27Z2dmmmpZtOyOVWydKJjQqGjCzrI6zq3w5VXBxdq+oAAAAHXRSTlP6x4HsTfkFkpMGlMStxZbpA1jr6oBX+OjGAEyREOVsFa4AABBWSURBVHja3Z0LuORWXcADtS2LtN21hXKX9YX4RPH9wEeJUkALW221drFLWhRspSgV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"
+    },
+    {
+      "id": "motor_g1_q4",
+      "order": 4,
+      "categoryId": "motor",
+      "question": "Yakıt içerisinde toz, su veya pislik varsa motor nasıl çalışır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yüksek devirde",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Zengin karışımla",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yüksek performansla",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Düzensiz, tekleyerek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Eğer yakıt içerisinde toz, su veya pislik bulunuyorsa, motor düzensiz ve tekleyerek çalışır. Bu tip bir durumda, yakıtın kirlenmiş olması motorun performansını düşürür ve motorun düzenli çalışmasını engeller. Bu nedenle, yakıt içerisinde toz, su veya pislik varsa, motor yüksek devir, zengin karışım ve yüksek performans gösteremez. Motorun düzenli çalışması için, temiz bir yakıt kullanılması önemlidir.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g1_q5",
+      "order": 5,
+      "categoryId": "motor",
+      "question": "Kışın aşırı soğuktan dolayı motor soğutma suyu donduğu zaman meydana gelen genleşme kuvveti; silindir bloğu, silindir kapağı ve radyatörü çatlatabilir. Buna göre donmayı önlemek için motor soğutma suyuna aşağıdakilerden hangisinin yeterli miktarda karıştırılması gerekir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Asit",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Antifriz",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Saf su",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Motor yağı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Motor soğutma suyuna antifriz karıştırılması, bu suyun donma noktasının düşürülmesine ve böylece soğuk havalarda motorun daha rahat çalışmasına yardımcı olur. ",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g1_q6",
+      "order": 6,
+      "categoryId": "motor",
+      "question": "Lastiklerin hava basıncı dengesizse frenleme anında aşağıdakilerden hangisi olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Araç bir tarafa çeker.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Fren pedalı sertleşir.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Frenlerden ses gelir.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Fren hidroliği azalır.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Lastiklerin hava basıncı dengesizse, araç frenleme anında bir tarafa çekme eğilimi gösterir. Bu durum, frenleme esnasında kontrolün kaybedilmesine neden olabilir ve güvenli bir sürüş için önemlidir. Lastiklerin hava basıncının düzenli olarak kontrol edilmesi, araç frenleme anında bir tarafa çekme eğilimini önleyebilir ve güvenli bir sürüş sağlar.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g1_q7",
+      "order": 7,
+      "categoryId": "motor",
+      "question": "Aşağıdakilerden hangisi elektrik devresindeki sigortanın görevidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aküyü şarj etmek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bujilere giden akımı yükseltmek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kısa devre olduğunda sistemi korumak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Endüksiyon bobinine giden akımı yükseltmek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Sigorta, elektrik devresinde bir tür koruma cihazıdır ve elektrik akımının yüksek seviyelerde olması durumunda devreyi keserek sistemi korur. Bu nedenle, sigorta kısa devre olduğunda devreyi keserek sistemi korur ve bu sayede sistem zarar görmez. Sigorta, aküyü şarj etmek, bujilere giden akımı yükseltmek ve endüksiyon bobinine giden akımı yükseltmek gibi görevleri yerine getirmez.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g1_q8",
+      "order": 8,
+      "categoryId": "motor",
+      "question": "Seyir hâlindeyken araçtan “sürekli yakıt kokusu” alınması durumunda aşağıdakilerden hangisi yapılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Açık camlar kapatılır.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Önemsenmez yola devam edilir.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Lastiklerin hava basıncı kontrol edilir.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafik kurallarına uyarak durulur ve kontak kapatılır.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Araçtan sürekli bir yakıt kokusu alınması, araçta bir sorunun olduğunun habercisidir. Bu durumda, araçta bir arıza olma ihtimali nedeniyle ilk önce trafik kurallarına uyarak durulmalı ve araç kontağı kapatılmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g1_q9",
+      "order": 9,
+      "categoryId": "motor",
+      "question": "Araçlarda yakıt tasarrufu sağlamak için aşağıdakilerden hangisi yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Termostat çıkartılmalı",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Eskimiş bujiler değiştirilmeli",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Lastiklerin hava basıncı indirilmeli",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Motor yüksek devirde çalıştırılmalı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Bujiler, aracın motorunda düzgün bir şekilde çalışmasını sağlayan parçalardır. Eğer bujiler eskiyse veya bozulmuşsa, motor düzgün bir şekilde çalışmayabilir ve daha fazla yakıt tüketebilir. Bu nedenle, araçların yakıt tasarrufu sağlamak için eski bujilerin zamanında değiştirilmesi önemlidir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 1,
+  "testId": "motor_group_1",
+  "name": "Motor Test 1"
+}

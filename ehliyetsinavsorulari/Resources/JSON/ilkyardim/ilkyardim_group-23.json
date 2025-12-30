@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g23_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "Kanama olan bölgeye turnike uygularken aşağıdakilerden hangisine dikkat edilmelidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Eklem bölgesi olmasına",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kalp seviyesinde bir bölge olmasına",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Vücutta yassı kemiklerin olduğu bölge olmasına",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Vücutta atardamarların geçtiği ve tek kemikli bölge olmasına",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Turnike uygulanacak bölge seçilirken, atardamarın tek kemik tarafından desteklenip çevresinde yumuşak doku bulunmayan bir bölge tercih edilmelidir. Böylece turnikenin etkisi maksimize edilir ve doku zararının önüne geçilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g23_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "• Yaralı sayısının ve türlerinin belirlenmesi\n•Tekrar kaza olma riskinin ortadan kaldırılması\n\nVerilenler aşağıdakilerden hangisinin amacını oluşturur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Olay yerini değerlendirmenin",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sağlık personeli niteliği kazanmanın",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kazazedelerin özel yaşamıyla ilgilenmenin",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kaza yapmış araçların cins ve modelini tespit etmenin",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Olay yerinin değerlendirilmesi, kaza sonrası mevcut durumu anlamak, yaralıların sayısını ve yaralanma tiplerini belirlemek ve gelecekte benzer olayların önüne geçmek için alınacak önlemleri organize etmeye yardımcı olur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g23_q3",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Kalp ve solunumu durmuş bir çocuğa (1-8 yaş), ilk yardım yapan kişi tek başına ise aşağıdakilerden hangisini uyguladıktan sonra tıbbi yardım istemelidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "30 kalp masajı, 2 suni solunumu 5 tur uyguladıktan sonra",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "60 kalp masajı, 1 suni solunumu 5 tur uyguladıktan sonra",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "30 kalp masajı, 2 suni solunum uygulamasının hemen sonrası",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "60 kalp masajı, 2 suni solunum uygulamasının hemen sonrası",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Çocuklarda ilk yardım protokolü, yetişkinlerden farklıdır. Genel kabul görmüş yöntemlere göre 30 kalp masajı ve 2 suni solunumun 5 tur uygulanmasının ardından, acil tıbbi yardım sağlanmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g23_q4",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi 'şok' belirtilerinden biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kan basıncının düşmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bilinç seviyesinin artması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Cildin soğuk ve nemli olması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Dudak çevresinin morarması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Şok durumlarında, vücudun kan dolaşımında ciddi bozulmalar meydana gelir: kan basıncı düşer, cilt soğur ve morumsu bir görünüm ortaya çıkar. Ancak, bilinç seviyesinin artması şokun tam ters bir etkisidir; dolayısıyla bu durum şok belirtisi değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g23_q5",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Başından yaralanan kazazedeye aşağıdakilerden hangisi uygulanır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yarası sarılarak uyutulur.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yaralı bölgeye sıcak uygulama yapılır.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Solunum yolu açık tutularak sevk edilir.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kanama yoksa bir şey yapmaya gerek yoktur.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Baş yaralanması gibi durumlarda, hastanın solunum yolunun açık tutulması ve hızlıca tıbbi destek alınabilmesi kritik önem taşır. Bu nedenle, hasta mümkün olan en kısa sürede kontrollü bir şekilde tıbbi merkeze sevk edilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g23_q6",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi burkulmalarda uygulanan ilk yardım ilkeleri arasında yer alır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Burkulan bölgeye masaj yapılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Burkulan bölgenin sürekli hareket ettirilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Burkulan bölgeye sıcak uygulama yapılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Şişliği azaltmak için burkulan bölgenin yukarı kaldırılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Burkulma durumunda, etkilenen bölgedeki şişliğin azaltılması ve kan dolaşımının kontrol altına alınması için bölgenin hafifçe yükseltilmesi önerilir. Diğer uygulamalar, yaralanmanın daha da kötüleşmesine neden olabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g23_q7",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi bilinç kaybının en ileri durumudur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Koma",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Üşüme",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bayılma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Terleme",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Bilinç kaybı düzeyleri arasında en ciddi durum, koma halidir. Koma, uzun süreli ve derin bilinç kaybını ifade eder; kişinin uyarılara yanıt vermemesi, temel yaşam fonksiyonlarının da bozulduğunu gösterir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g23_q8",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "• Sıkıntı veya nefes darlığı\n•Genellikle göğüs ortasından başlayıp kollara, boyuna, sırta ve çeneye doğru ilerleyen ve yaklaşık 5-10 dakika kadar süren ağrı hissi\n\nVerilen bulgular kazazedede aşağıdaki durumların hangisinin olduğunu gösterir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Reflü",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kalp spazmı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kalp durması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Solunum durması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Belirtilen semptomlar, özellikle göğüs ortasından başlayan ve kollara yayılan ağrı, kalp spazmı (anjina) belirtilerine işaret eder. Bu durum, kalbe giden kan akışında geçici daralma sonucu ortaya çıkar.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g23_q9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, yaralı taşımalarında ilk yardımcının uyması gereken kurallardan biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Başını her zaman düz tutması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yavaş ve düzgün adımlarla yürümesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yerden destek alacak şekilde her iki ayağını da kullanması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kazazedeyi mümkün olduğunca çok hareket ettirmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kazazedenin çok hareket ettirilmesi durumunda yaralanmalar ağırlaşabilir. Bu yüzden doğru değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g23_q10",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi ilk yardımın temel kurallarından biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "İlk yardımcı önce kendini emniyete almalıdır.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İlk yardımcı emin olmadığı uygulamalardan kaçınmalıdır.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Tıbbi yardım gelene kadar hiçbir uygulama yapılmamalıdır.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kazazedelere müdahale hızlı ancak sakin bir şekilde yapılmalıdır.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "İlk yardım sürecinde, kazazedeye müdahale edilirken tıbbi yardım gelene kadar hayat kurtarıcı uygulamalar yapılmalıdır. Hiçbir müdahalede bulunmamak, kazazedenin durumunun daha da kötüleşmesine neden olabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g23_q11",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Vücudumuzda belli bir işlevi yerine getirmek amacıyla bir araya gelen organların oluşturdukları yapıya ne denir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Doku",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hücre",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Gövde",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sistem",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Vücudun farklı organları, belirli bir işlevi yerine getirmek üzere organize olduğunda bu yapıya 'sistem' denir. Örneğin; dolaşım sistemi, sinir sistemi gibi.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g23_q12",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Bak-Dinle-Hisset yönteminde 'Dinle' ne anlama gelir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafik işaretçilerinin dinlenmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yaralının soluk sesinin dinlenmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yaralıların şikayetlerinin dinlenmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Etrafta siren sesi olup olmadığının dinlenmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Bak-Dinle-Hisset yöntemi, ilk yardım sürecinde yaralının durumu hakkında bilgi edinmek için öncelikle yaralının soluk sesi ve diğer hayati bulgularının dinlenmesini öngörür. Bu, yaralının ciddi bir solunum problemi olup olmadığının anlaşılmasına yardımcı olur.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 23,
+  "testId": "ilkyardim_group_23",
+  "name": "İlk Yardım Test 23"
+}

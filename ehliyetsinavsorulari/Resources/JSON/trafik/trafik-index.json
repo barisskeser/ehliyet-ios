@@ -1,0 +1,189 @@
+{
+  "categoryId": "trafik",
+  "categoryName": "Trafik",
+  "color": "#3498db",
+  "totalGroups": 36,
+  "totalQuestions": 828,
+  "groups": [
+    {
+      "groupNumber": 1,
+      "groupId": "trafik_group_1",
+      "file": "trafik_group-1.json"
+    },
+    {
+      "groupNumber": 2,
+      "groupId": "trafik_group_2",
+      "file": "trafik_group-2.json"
+    },
+    {
+      "groupNumber": 3,
+      "groupId": "trafik_group_3",
+      "file": "trafik_group-3.json"
+    },
+    {
+      "groupNumber": 4,
+      "groupId": "trafik_group_4",
+      "file": "trafik_group-4.json"
+    },
+    {
+      "groupNumber": 5,
+      "groupId": "trafik_group_5",
+      "file": "trafik_group-5.json"
+    },
+    {
+      "groupNumber": 6,
+      "groupId": "trafik_group_6",
+      "file": "trafik_group-6.json"
+    },
+    {
+      "groupNumber": 7,
+      "groupId": "trafik_group_7",
+      "file": "trafik_group-7.json"
+    },
+    {
+      "groupNumber": 8,
+      "groupId": "trafik_group_8",
+      "file": "trafik_group-8.json"
+    },
+    {
+      "groupNumber": 9,
+      "groupId": "trafik_group_9",
+      "file": "trafik_group-9.json"
+    },
+    {
+      "groupNumber": 10,
+      "groupId": "trafik_group_10",
+      "file": "trafik_group-10.json"
+    },
+    {
+      "groupNumber": 11,
+      "groupId": "trafik_group_11",
+      "file": "trafik_group-11.json"
+    },
+    {
+      "groupNumber": 12,
+      "groupId": "trafik_group_12",
+      "file": "trafik_group-12.json"
+    },
+    {
+      "groupNumber": 13,
+      "groupId": "trafik_group_13",
+      "file": "trafik_group-13.json"
+    },
+    {
+      "groupNumber": 14,
+      "groupId": "trafik_group_14",
+      "file": "trafik_group-14.json"
+    },
+    {
+      "groupNumber": 15,
+      "groupId": "trafik_group_15",
+      "file": "trafik_group-15.json"
+    },
+    {
+      "groupNumber": 16,
+      "groupId": "trafik_group_16",
+      "file": "trafik_group-16.json"
+    },
+    {
+      "groupNumber": 17,
+      "groupId": "trafik_group_17",
+      "file": "trafik_group-17.json"
+    },
+    {
+      "groupNumber": 18,
+      "groupId": "trafik_group_18",
+      "file": "trafik_group-18.json"
+    },
+    {
+      "groupNumber": 19,
+      "groupId": "trafik_group_19",
+      "file": "trafik_group-19.json"
+    },
+    {
+      "groupNumber": 20,
+      "groupId": "trafik_group_20",
+      "file": "trafik_group-20.json"
+    },
+    {
+      "groupNumber": 21,
+      "groupId": "trafik_group_21",
+      "file": "trafik_group-21.json"
+    },
+    {
+      "groupNumber": 22,
+      "groupId": "trafik_group_22",
+      "file": "trafik_group-22.json"
+    },
+    {
+      "groupNumber": 23,
+      "groupId": "trafik_group_23",
+      "file": "trafik_group-23.json"
+    },
+    {
+      "groupNumber": 24,
+      "groupId": "trafik_group_24",
+      "file": "trafik_group-24.json"
+    },
+    {
+      "groupNumber": 25,
+      "groupId": "trafik_group_25",
+      "file": "trafik_group-25.json"
+    },
+    {
+      "groupNumber": 26,
+      "groupId": "trafik_group_26",
+      "file": "trafik_group-26.json"
+    },
+    {
+      "groupNumber": 27,
+      "groupId": "trafik_group_27",
+      "file": "trafik_group-27.json"
+    },
+    {
+      "groupNumber": 28,
+      "groupId": "trafik_group_28",
+      "file": "trafik_group-28.json"
+    },
+    {
+      "groupNumber": 29,
+      "groupId": "trafik_group_29",
+      "file": "trafik_group-29.json"
+    },
+    {
+      "groupNumber": 30,
+      "groupId": "trafik_group_30",
+      "file": "trafik_group-30.json"
+    },
+    {
+      "groupNumber": 31,
+      "groupId": "trafik_group_31",
+      "file": "trafik_group-31.json"
+    },
+    {
+      "groupNumber": 32,
+      "groupId": "trafik_group_32",
+      "file": "trafik_group-32.json"
+    },
+    {
+      "groupNumber": 33,
+      "groupId": "trafik_group_33",
+      "file": "trafik_group-33.json"
+    },
+    {
+      "groupNumber": 34,
+      "groupId": "trafik_group_34",
+      "file": "trafik_group-34.json"
+    },
+    {
+      "groupNumber": 35,
+      "groupId": "trafik_group_35",
+      "file": "trafik_group-35.json"
+    },
+    {
+      "groupNumber": 36,
+      "groupId": "trafik_group_36",
+      "file": "trafik_group-36.json"
+    }
+  ]
+}

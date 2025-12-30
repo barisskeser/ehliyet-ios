@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g22_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "Soluk yoluna yabancı cisim kaçmış bir kazazedenin öksürüyor, nefes alabiliyor ve konuşabiliyor olduğunu gözlemlediniz. Bu durumda hangi tür tıkanma olduğunu düşünürsünüz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tam tıkanma",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kısmi tıkanma",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Damar tıkanması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Solunum durması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Kazazedede hâlâ öksürüyor, nefes alıyor ve konuşabiliyorsa hava yolunda kısmi tıkanma söz konusudur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g22_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "İç kanama şüphesi olan bir kazazedeye ilk yardım olarak aşağıdakilerden hangisinin yapılması yanlıştır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ağızından ılık içecekler verilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İlk yardımın ABC´sinin uygulanması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Ayaklarının 30 cm yukarı kaldırılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Üzerinin örtülerek ısı kaybının önlenmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "İç kanama şüphesinde ağız yoluyla sıvı verilmesi, sindirim sisteminin uyarılmasına ve aspirasyon riskine yol açabileceğinden önerilmez.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g22_q3",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi 'şok' belirtilerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Deride kızarıklık olması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bilinç seviyesinin artması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Vücut sıcaklığının artması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Nabzın hızlı ve zayıf olması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Şok durumunda, vücut yeterli kanı pompalamadığı için nabız hızlanır fakat zayıf olur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g22_q4",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Baş, boyun ve gövde ekseninin korunmasına hangi yaralanmalarda daha çok dikkat edilmesi gerekir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Karın yaralanmalarında",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bacak yaralanmalarında",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Göğüs yaralanmalarında",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Omurga yaralanmalarında",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Omurga yaralanmalarında, vücudun doğal ekseninin korunması hayati önem taşır; bu nedenle özellikle dikkat gösterilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g22_q5",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Delici karın yaralanması olan bir kazazedeye ilk yardım olarak aşağıdakilerden hangisinin yapılması yanlıştır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şoka karşı önlem alınması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yaşam bulgularının kontrol edilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Dışarı çıkan organlarının içeri sokulmaya çalışılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bilinci yerinde ise bacakları bükülmüş olarak sırtüstü yatırılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Delici yaralanmalarda, dışarı çıkan organları geri sokmaya çalışmak enfeksiyon ve başka komplikasyonlara yol açacağından kesinlikle yapılmamalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g22_q6",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Kaza sonucu vücudun hangi kısımlarında çıkık görülebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kafatası eklemlerinde",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hareketli eklem yerlerinde",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Diz ile kalça arasındaki kemikte",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Dirsek ile omuz arasındaki kemikte",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Çıkıklar, genellikle vücudun hareketli ve sık kullanılan eklemlerinde meydana gelir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g22_q7",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Beyne giden kan akışının azalması sonucu kısa süreli, yüzeysel ve geçici bilinç kaybına ne denir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Felç",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kriz",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Koma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bayılma",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kısa süreli bilinç kaybı, beyne yetersiz kan gitmesinden kaynaklanan 'bayılma' olarak tanımlanır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g22_q8",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "• Yangın tehlikesi\n•Patlama durumu\n•Solunum durması\n\nYukarıdaki durumların olasılığı mevcut ise kazazede araçtan hangi yöntemle çıkarılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Rentek manevrası",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sırtta taşıma yöntemi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "İtfaiyeci yöntemi ile omuzda taşıma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Ayak bileklerinden sürükleme yöntemi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Yangın, patlama ve solunum durması riski bulunduğunda kazazedeyi mümkün olan en kısa sürede araçtan uzaklaştırmak için hızlı 'rentek manevrası' tercih edilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g22_q9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, kazalardaki ölümler ve sakat kalmaların en büyük nedenlerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tekrar kaza olma riskinin ortadan kaldırılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İlk yardımın zamanında ve tekniğine uygun yapılmaması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hayati tehlike oluşturabilecek müdahalelerden kaçınılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "İlk yardım uygulayacak olan kişilerin bu konuda eğitim almış olması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Kaza sonrası ilk yardımın geç veya hatalı uygulanması, ölüme ve sakatlıklara yol açan en önemli faktörlerden biridir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g22_q10",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "İlk yardımcının insan vücudu, yapısı ve işleyişi konusunda bazı temel kavramları bilmesi, yapacağı müdahalelerde bilinçli olmasını kolaylaştırır. Buna göre kalp, kan damarları ve kan vücudumuzdaki hangi sistemi oluşturan yapılardandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dolaşım sistemini",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hareket sistemini",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sindirim sistemini",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Solunum sistemini",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kalp ve damarlar, kanın vücutta dolaşımını sağlayan temel bileşenlerdir; bu nedenle dolaşım sistemine dahildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g22_q11",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi kazazedede solunumun olmadığını gösteren bir belirtidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bilincin kısa süreli kapanması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Ağrılı uyaranlara cevap vermesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yüzde solgunluk ve baş dönmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Göğüs kafesi hareketlerinin olmaması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kazazedede göğüs kafesi hareketlerinin olmaması, solunumun durmuş olduğunu gösterir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g22_q12",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Kalp durmasının en önemli göstergesi aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Solunumun güç olması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Vücutta morarma olması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Nabız atımlarının olmaması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kazazedenin bilincini kaybetmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Kalp durmasının ana göstergesi, nabızın olmaması; diğer belirtiler dolaylı sonuçlardır.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 22,
+  "testId": "ilkyardim_group_22",
+  "name": "İlk Yardım Test 22"
+}

@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g21_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi kanamayı azaltmak için uygulanan bir yöntemdir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kanayan yerin oksijenli su ile yıkanması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kanayan yere sıcak uygulama yapılması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kanayan yerin kalp seviyesinden yukarıda tutulması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kanama bölgesinde bulunan pıhtıların yıkanarak temizlenmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Kan kaybını azaltmak amacıyla, kanayan bölgenin kalp seviyesinden yukarıda tutulması, yerçekiminin etkisini azaltır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g21_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "İlk yardım yapacak olan kişi, kazazedeyi sırtüstü yatırmış, yakasını açmış, bacaklarını 30 cm kadar yükseltmiş ve sıcak tutulmasını sağlamıştır.\n\nİlk yardımcı, yapmış olduğu bu uygulamalarla öncelikli olarak aşağıdakilerden hangisini amaçlamıştır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şokun engellenmesini",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kanamanın durdurulmasını",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Zihinsel aktivitenin korunmasını",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sindirim işlevinin rahat olmasını",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kazazedede şok riski bulunmaktadır; alınan önlemler öncelikle şokun engellenmesini amaçlamaktadır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g21_q3",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "I- Oturuş pozisyonu verilmesi II- Burun kanatlarının 5 dakika süre ile sıkılması III- Çeneyi göğüsten uzaklaştırarak başın geriye çekilmesi\n\nBurun kanaması olan bir kazazedeye yukarıdaki uygulamalardan hangilerinin yapılması doğrudur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Temel yaşam desteğinde, önce hastanın güvenli bir zemine yatırılması ve ardından doğru el yerleşimiyle kalp basıncının uygulanması gerekir. Çok derin veya aşırı basınç, istenmeyen sonuçlara yol açabileceğinden, standart uygulamada yalnızca I ve II adımları öne çıkar.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g21_q4",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Omurga kırığı olan yaralıya aşağıdaki uygulamalardan hangisi kesinlikle  yapılmaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Taşıma esnasında baş ve ayakların gergin olmasını sağlamak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Uzun tahta atellerle vücudunu tespit etmek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Dik oturur şekilde pozisyon vermek",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sert bir zemine sırtüstü yatırmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Omurga kırığı şüphesi olan yaralıya dik oturur şekilde pozisyon vermek, omurgada ek yaralanmalara neden olabileceğinden kesinlikle yapılmamalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g21_q5",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Çarpma ya da düşme sonucu kemik bütünlüğünün bozulmasına ne ad verilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kırık",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Çıkık",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Zorlama",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Burkulma",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kemik bütünlüğünün bozulması durumuna 'kırık' denir; bu, kemiğin tam veya kısmi olarak parçalanması anlamını taşır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g21_q6",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, kan şekeri aniden düştüğünde görülen belirtilerden biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Titreme",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Zindelik",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yorgunluk",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aniden Acıkma",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Kan şekeri düştüğünde titreme, yorgunluk ve acıkma gibi belirtiler görülür; zindelik bu durumda beklenmez.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g21_q7",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "I- Yaralıya yakın mesafede çalışılması\nII- Daha uzun ve kuvvetli kas gruplarının kullanılması\nIII- İlk yardımcının kendi sağlığını riske atması\n\nVerilenlerden hangileri yaralı taşımalarında uyulması gereken kurallardandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Temel yaşam desteğinde, önce hastanın güvenli bir zemine yatırılması ve ardından doğru el yerleşimiyle kalp basıncının uygulanması gerekir. Çok derin veya aşırı basınç, istenmeyen sonuçlara yol açabileceğinden, standart uygulamada yalnızca I ve II adımları öne çıkar.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g21_q8",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi ilk yardımın öncelikli amaçlarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafikteki kaza sayısının azaltılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İnsanların zararlı alışkanlıklarından uzaklaştırılması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kazazedenin durumunun kötüleşmesinin önlenmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafik ortamını paylaşanların özel yaşamıyla ilgilenilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "İlk yardım uygulamalarının temel amacı, kazazedenin durumunun kötüleşmesini önleyerek hayati tehlikeyi azaltmaktır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g21_q9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Kemikler, eklemler ve kaslar vücudumuzun hangi sistemini oluşturan yapılardandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hareket sistemi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sindirim sistemi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Dolaşım sistemi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Solunum sistemi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kemikler, eklemler ve kaslar, vücudumuzun hareket etmesini sağlayan temel yapılardır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g21_q10",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi ilk yardımın ABC'si içinde yer almaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hava yolu açıklığının değerlendirilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kan dolaşımının değerlendirilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Solunumun değerlendirilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sindirimin değerlendirilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "İlk yardımın ABC'sinde, hava yolu, dolaşım ve solunum değerlendirilir; sindirim bu kapsama girmez.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g21_q11",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Kaza yapmış bir araçta, devrilme tehlikesi belirgin olarak görülüyor ve araç sallanıyorsa, yaralılar araçtan ne zaman çıkarılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hiç zaman kaybetmeden, hemen",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Araç sabit bir hâle getirildikten sonra",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Aracın cinsi ve modeli tespit edildikten sonra",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Araç itilerek yavaşça devrilmesi sağlandıktan sonra",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Araç devrilme tehlikesi altında ise, yaralıların güvenli bir şekilde tahliyesi için önce aracın sabit hale gelmesi beklenmelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g21_q12",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Yetişkinde uygulanan kalp masajı uygulama bölgesi ve bası derinliği aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kaburganın sağ alt bölgesi (1 cm)",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Karnın sol üst bölgesi (3 cm)",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Göğüs kemiğinin ortası (5 cm)",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kaburganın sol alt bölgesi (7 cm)",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Yetişkinlerde kalp masajı, göğüs kemiğinin ortasından yaklaşık 5 cm derinlikle uygulanmalıdır.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 21,
+  "testId": "ilkyardim_group_21",
+  "name": "İlk Yardım Test 21"
+}

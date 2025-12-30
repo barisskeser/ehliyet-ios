@@ -1,0 +1,179 @@
+{
+  "categoryId": "ilkyardim",
+  "categoryName": "İlk Yardım",
+  "color": "#e74c3c",
+  "totalGroups": 34,
+  "totalQuestions": 408,
+  "groups": [
+    {
+      "groupNumber": 1,
+      "groupId": "ilkyardim_group_1",
+      "file": "ilkyardim_group-1.json"
+    },
+    {
+      "groupNumber": 2,
+      "groupId": "ilkyardim_group_2",
+      "file": "ilkyardim_group-2.json"
+    },
+    {
+      "groupNumber": 3,
+      "groupId": "ilkyardim_group_3",
+      "file": "ilkyardim_group-3.json"
+    },
+    {
+      "groupNumber": 4,
+      "groupId": "ilkyardim_group_4",
+      "file": "ilkyardim_group-4.json"
+    },
+    {
+      "groupNumber": 5,
+      "groupId": "ilkyardim_group_5",
+      "file": "ilkyardim_group-5.json"
+    },
+    {
+      "groupNumber": 6,
+      "groupId": "ilkyardim_group_6",
+      "file": "ilkyardim_group-6.json"
+    },
+    {
+      "groupNumber": 7,
+      "groupId": "ilkyardim_group_7",
+      "file": "ilkyardim_group-7.json"
+    },
+    {
+      "groupNumber": 8,
+      "groupId": "ilkyardim_group_8",
+      "file": "ilkyardim_group-8.json"
+    },
+    {
+      "groupNumber": 9,
+      "groupId": "ilkyardim_group_9",
+      "file": "ilkyardim_group-9.json"
+    },
+    {
+      "groupNumber": 10,
+      "groupId": "ilkyardim_group_10",
+      "file": "ilkyardim_group-10.json"
+    },
+    {
+      "groupNumber": 11,
+      "groupId": "ilkyardim_group_11",
+      "file": "ilkyardim_group-11.json"
+    },
+    {
+      "groupNumber": 12,
+      "groupId": "ilkyardim_group_12",
+      "file": "ilkyardim_group-12.json"
+    },
+    {
+      "groupNumber": 13,
+      "groupId": "ilkyardim_group_13",
+      "file": "ilkyardim_group-13.json"
+    },
+    {
+      "groupNumber": 14,
+      "groupId": "ilkyardim_group_14",
+      "file": "ilkyardim_group-14.json"
+    },
+    {
+      "groupNumber": 15,
+      "groupId": "ilkyardim_group_15",
+      "file": "ilkyardim_group-15.json"
+    },
+    {
+      "groupNumber": 16,
+      "groupId": "ilkyardim_group_16",
+      "file": "ilkyardim_group-16.json"
+    },
+    {
+      "groupNumber": 17,
+      "groupId": "ilkyardim_group_17",
+      "file": "ilkyardim_group-17.json"
+    },
+    {
+      "groupNumber": 18,
+      "groupId": "ilkyardim_group_18",
+      "file": "ilkyardim_group-18.json"
+    },
+    {
+      "groupNumber": 19,
+      "groupId": "ilkyardim_group_19",
+      "file": "ilkyardim_group-19.json"
+    },
+    {
+      "groupNumber": 20,
+      "groupId": "ilkyardim_group_20",
+      "file": "ilkyardim_group-20.json"
+    },
+    {
+      "groupNumber": 21,
+      "groupId": "ilkyardim_group_21",
+      "file": "ilkyardim_group-21.json"
+    },
+    {
+      "groupNumber": 22,
+      "groupId": "ilkyardim_group_22",
+      "file": "ilkyardim_group-22.json"
+    },
+    {
+      "groupNumber": 23,
+      "groupId": "ilkyardim_group_23",
+      "file": "ilkyardim_group-23.json"
+    },
+    {
+      "groupNumber": 24,
+      "groupId": "ilkyardim_group_24",
+      "file": "ilkyardim_group-24.json"
+    },
+    {
+      "groupNumber": 25,
+      "groupId": "ilkyardim_group_25",
+      "file": "ilkyardim_group-25.json"
+    },
+    {
+      "groupNumber": 26,
+      "groupId": "ilkyardim_group_26",
+      "file": "ilkyardim_group-26.json"
+    },
+    {
+      "groupNumber": 27,
+      "groupId": "ilkyardim_group_27",
+      "file": "ilkyardim_group-27.json"
+    },
+    {
+      "groupNumber": 28,
+      "groupId": "ilkyardim_group_28",
+      "file": "ilkyardim_group-28.json"
+    },
+    {
+      "groupNumber": 29,
+      "groupId": "ilkyardim_group_29",
+      "file": "ilkyardim_group-29.json"
+    },
+    {
+      "groupNumber": 30,
+      "groupId": "ilkyardim_group_30",
+      "file": "ilkyardim_group-30.json"
+    },
+    {
+      "groupNumber": 31,
+      "groupId": "ilkyardim_group_31",
+      "file": "ilkyardim_group-31.json"
+    },
+    {
+      "groupNumber": 32,
+      "groupId": "ilkyardim_group_32",
+      "file": "ilkyardim_group-32.json"
+    },
+    {
+      "groupNumber": 33,
+      "groupId": "ilkyardim_group_33",
+      "file": "ilkyardim_group-33.json"
+    },
+    {
+      "groupNumber": 34,
+      "groupId": "ilkyardim_group_34",
+      "file": "ilkyardim_group-34.json"
+    }
+  ]
+}

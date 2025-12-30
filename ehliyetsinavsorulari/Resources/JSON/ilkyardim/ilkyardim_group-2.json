@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g2_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "I. Kazazedenin tedavi edilmesi\nII. Hayati tehlikenin ortadan kaldırılması\nIII. Yaşamsal fonksiyonların sürdürülmesinin sağlanması\n\nYukarıdakilerden hangileri ilk yardımın öncelikli amaçlarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I ve II.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve III.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Bu amaçlar kazazedenin hayati tehlikesinin ortadan kaldırılması için yapılır ve bu yüzden önceliklidirler.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g2_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi solunum sistemi organlarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kalp",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Akciğerler",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Pankreas",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Böbrekler",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Akciğerler, insan vücudunun solunum sistemi organlarıdır ve oksijen alımını sağlar. Akciğerler, havayı içeri çeker ve kanda bulunan karbondioksit gazını dışarı atar. Bu sayede, vücutta bulunan hücreler oksijene ulaşarak enerji üretebilir ve işlevlerini yerine getirebilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g2_q3",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi “kaza sonuçlarının ağırlaşmasını önlemek için olay yerinin değerlendirilmesi” işlemini kapsar?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Koruma",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bildirme",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kurtarma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Tedavi etme",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Koruma işlemi, olay yerinde bulunan insanların ve diğer varlıkların güvenliğini sağlamaya yönelik bir işlemdir. Bu işlem, bildirme, kurtarma ve tedavi etme gibi diğer işlemlerden farklıdır. Koruma işlemi, olay yerinde bulunan insanların ve diğer varlıkların zarar görmemesi için yapılır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g2_q4",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi kalp durmasının belirtilerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aşırı hareketlilik",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bilincin açık olması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kalp atımının olmaması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hızlı ve yüzeysel solunum",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Kalp durması, kalbin düzgün bir şekilde çalışmayı durdurmasıdır. Bu durum, kalbin kan pompalayamamasına neden olur ve vücutta oksijen ve gerekli besin maddelerinin taşınmasını engelleyebilir. Kalp durmasının en belirgin belirtisi, kalp atımının olmamasıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g2_q5",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi bebeklere yapılan yapay solunum uygulamasında, ilk yardımcının dikkat etmesi gereken kurallardandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bebeğin yumuşak bir zemin üzerine sırtüstü yatırılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hava yolu tıkanıklığına neden olan yabancı cisim varsa bebeğin yutmasının sağlanması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bebeğin solunum yapıp yapmadığının bak-dinle-hisset yöntemiyle 2 dakika süre ile kontrol edilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bebekte solunum yoksa ağız dolusu nefes alınması ve ağzın, bebeğin ağız ve burnunu içine alacak şekilde yerleştirilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Yapay solunum uygulaması, bebekte solunum yoksa yapılacak bir uygulamadır. Bebekte solunum yoksa, ilk yardımcının ağız dolusu nefes alınması ve ağzın, bebeğin ağız ve burnunu içine alacak şekilde yerleştirilmesi gerekir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g2_q6",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Solunum yolu yabancı bir cisimle tıkanmış olan kazazede öksürüyor, nefes alabiliyor ve konuşabiliyorsa bu kazazedede aşağıdakilerden hangisinin olduğu düşünülür?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Koma",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kısmi tıkanma",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Tam tıkanma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Solunum durması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Solunum yolu tam tıkanmışsa, nefes alınamaz ve konuşma da mümkün olmaz. Kısmi tıkanma durumunda ise, nefes alınabilir ancak öksürük veya nefes darlığı gibi belirtiler olabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g2_q7",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi şok belirtilerinden biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Huzursuzluk",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Baş dönmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Dudak çevresinde morarma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Ciltte ısı artışı, kızarıklık ve kuruluk",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Şok belirtileri, vücutta yeterli kan ve oksijen gitmediği durumlarda ortaya çıkan belirtilerdir. Şok belirtileri arasında huzursuzluk, baş dönmesi, dudak çevresinde morarma gibi belirtiler yer alır. Ancak, ciltte ısı artışı, kızarıklık ve kuruluk gibi belirtiler şok belirtileri değildir. Bu belirtiler, genellikle cilt enfeksiyonları veya cilt ile ilgili diğer sağlık sorunlarının belirtileri olabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g2_q8",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Burun kanaması olan kazazedeye yapılması gereken ilk yardım uygulaması hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Burun kanatlarının 5 dakika süre ile sıkılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yan yatış pozisyonuna getirilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Başının geriye doğru itilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sırtüstü yatırılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Bu uygulama, burun boşluğundaki kan damarlarının tıkanmasına yardımcı olur ve kanamanın durdurulmasına yardımcı olur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g2_q9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi delici göğüs yaralanmalarında kazazedeye yapılan doğru bir ilk yardım uygulamasıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ayaklarının yüksekte tutulup yüzüstü yatırılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bilinci açık ise yarı oturur duruma getirilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Ağızdan ılık içecekler verilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Batan cismin çıkarılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Delici göğüs yaralanmaları, göğüs boşluğunda hasar oluşturan ve solunum sistemini etkileyebilecek yaralanmalardır. Bu yaralanmaların acil bir şekilde müdahale edilmesi gerekir. Kazazede bilinci açık ise, yarı oturur duruma getirilerek solunum yollarının açık kalması sağlanır. Bu şekilde, kazazedenin solunum sistemi tıkanmadan, hava akışı sağlanarak solunum desteği sağlanır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g2_q10",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi burkulmalarda yapılması gereken ilk yardım uygulamalarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sıkıştırıcı bir bandajla burkulan eklemin tespit edilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Şişliği azaltmak için bölgenin vücut seviyesinden aşağıya indirilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Burkulan eklem yüzeyinin sürekli hareket ettirilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Boğucu sargı (turnike) uygulanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Burkulmalar, vücutta meydana gelen hafif şişlik ve morluklarla birlikte oluşan, kasların, eklemlerin veya diğer dokuların zedelenmesidir. Burkulmaların ilk yardımı, şişliğin azaltılmasına yönelik yapılır. Bu amaçla, sıkıştırıcı bir bandajla burkulan eklemin tespit edilir ve bu bandajla eklem sıkıştırılır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g2_q11",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Koma durumundaki kazazedeye aşağıdaki pozisyonlardan hangisi verilmelidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şok pozisyonu",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sırtüstü yatış pozisyonu",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yarı yüzükoyun-yan pozisyon",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Baş geride yarı oturuş pozisyonu",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Bu pozisyon, koma durumundaki kazazedeyle ilgili olarak bir ilk yardım uygulamasıdır ve bu pozisyonda kazazede yarı yüzükoyun yatırılır ve başı düzgün bir şekilde yana döndürülür. Bu pozisyon sayesinde solunum ve dolaşım sistemlerine destek verilerek kazazedenin sağlıklı bir şekilde nefes alması ve kan dolaşımının sağlanması hedeflenir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g2_q12",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi kazazedenin taşınmasında uyulması gereken genel kurallardandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "İlk yardımcının kendi sağlığını riske sokması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İlk yardımcının kalkarken ağırlığı karın kaslarına vermesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kazazedenin mümkün olduğunca çok hareket ettirilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kazazedenin baş-boyun-gövde ekseni esas alınarak en az 6 destek noktasından kavranması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Bu sayede, kazazedenin vücudu dengede ve doğru pozisyonda taşınır ve hareketler sırasında vücutta oluşabilecek hasarlar en aza indirilebilir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 2,
+  "testId": "ilkyardim_group_2",
+  "name": "İlk Yardım Test 2"
+}

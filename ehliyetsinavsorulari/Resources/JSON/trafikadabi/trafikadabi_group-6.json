@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g6_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Trafik adabı;\nI. Denetim ve ceza korkusuyla yazılı kurallara uymak,\nII. Yazılı olmayan, trafik içerisinde karşılıklı anlayış ve empati gerektiren davranışları oluşturmak ve bu davranışları alışkanlık hâline getirmektir.\n\nVerilenler için aşağıdakilerden hangisi söylenebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I. doğru, II. yanlış",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I. yanlış, II. doğru",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Her ikisi de doğru",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Her ikisi de yanlış",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Trafik adabı, yazılı olmayan kuralları da kapsar ve empati gerektirir. Ceza korkusu bu kapsamda değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g6_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Karlı havada zincir takmaya çalışan bir sürücünün sorununa, bu konuda daha deneyimli ve becerikli diğer bir sürücünün çözüm bulması, trafikte hangi temel değere sahip olunduğunu gösterir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafik kültüründe birbirini uyarma",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kendini eleştirme",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yardımlaşma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "İnatlaşma",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Zor durumdaki bir sürücüye yardım etmek, trafikte yardımlaşma ve dayanışma kültürünü gösterir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g6_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Trafik psikologları, yaşam tarzı ile araç kullanmanın ilişkili olduğunu belirtmektedirler. Diğer bir deyişle, insan nasıl yaşarsa öyle araç kullanır. Trafik adabı açısından değerlendirmek gerekirse bir toplumdaki kişiler birbirlerine nasıl davranıyorlarsa birlikte yaşama, yol yordamları ne ise trafik ortamında da aynı adap içinde davranırlar.\n\nBuna göre stresle olumlu baş etme konusunda sorun yaşayan sürücülerin, genel olarak trafikte hangi temel değere sahip olmadığı bilinir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sabır",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Öfke",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bencillik",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "İnatlaşma",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Stresle baş etme sorunları olan sürücülerde genellikle sabır eksikliği gözlenir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g6_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi öfke yönetiminin amaçlarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfkeyi bastırmak ya da yok etmek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kızgınlığa yol açan olayları değiştirmek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "İnsanlar ya da olaylar karşısında gösterilen içsel ve dışsal tepkilerde kontrolsüz davranılmasını sağlamak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kızgınlığın ya da öfkenin yol açtığı duygusal ve fizyolojik tepkileri azaltmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Öfke yönetimi, duygusal ve fizyolojik tepkilerin kontrol altına alınmasını hedefler.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g6_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Seyir hâlindeki sürücünün, yaptığı birhatadan dolayı eliyle veya yüz ifadesiyle diğer sürücülerden özür dilemesi, trafikte hangi üslubun kullanıldığına örnek olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bencilliğin",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Beden dilinin",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "İnatlaşmanın",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Tahammülsüzlüğün",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Beden dili, trafikte empati ve iletişim için etkili bir yöntemdir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g6_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi trafik kazalarının topluma verdiği zararlardan biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Üretim ve refah kayıplarının yaşanması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kara yollarının zamanından önce yıpranması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Uzun vadede kalkınmaya olumlu etki yapması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Açılan çok sayıda dava ile yargı sisteminde iş yükünün artması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Trafik kazalarının kalkınmaya olumlu bir etkisi yoktur, aksine toplumda kayıplara yol açar.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 6,
+  "testId": "trafikadabi_group_6",
+  "name": "Trafik ve Çevre Test 6"
+}

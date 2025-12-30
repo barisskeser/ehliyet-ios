@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g7_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "“Hiçbir toplum 24 saat trafik zabıtası tarafından denetlenemez. Toplum yararına kesintisiz denetim - - - - ile mümkündür.”\n\nVerilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "trafik adabı",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "trafik cezası",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "trafik terörü",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "trafik müfettişi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Sürekli denetimin asıl yöntemi, sürücülerde trafik adabının benimsetilmesidir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g7_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Trafik kazası, sadece maddi hasarlı bile olsa yaşanması hiç istenmeyen ve kazaya karışan sürücüleri psikolojik olarak olumsuz etkileyen bir durumdur.\n\nBuna göre kaza sonrası tarafların birbirine hangi şekilde davranması hâlinde meydana gelen kaza ile ilgili sorunlar daha kısa sürede çözülecektir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Asabi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Aşırı tepkili",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kaba ve saldırgan",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Saygılı ve nezaketli",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kaza sonrasında sakin ve saygılı davranmak, olayın daha sağlıklı çözülmesine yardımcı olur.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g7_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Trafik içinde hatalı davranış sergileyen bir sürücüyü uyarmak aşağıdakilerden hangisini azaltır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafikteki araç sayısını",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sürücünün kaza yapma riskini",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yayaların yaya geçidini kullanma oranlarını",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Diğer sürücülerin trafik kurallarına uyma yüzdelerini",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Hatalı davranışlar uyarıldığında, sürücünün kaza riski düşer çünkü daha dikkatli bir sürüş sağlanır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g7_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Kendinden çok başkalarını düşünen, başkalarının iyiliği için fedakârlık yapan ve özgeci şeklinde tanımlanır. Yardım etme davranışının bir alt kategorisidir.\n\nYukarıdaki açıklama hangi davranış özelliğine aittir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bencillik",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Saldırganlık",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Diğergamlık",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sorumsuzluk",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Verilen tanım, başkalarının iyiliğini gözeten ve yardımsever olan 'diğergamlık' özelliğini ifade eder.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g7_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi, trafikte diğerlerine göre daha çabuk ve fazla öfkelenen sürücülerin yol açtığı bir durum değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sabırsızlık ve tahammülsüzlüğün artması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kazaya karışma olasılığının azalması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kural ihlallerinin artması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Dikkatin dağılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Öfkeli sürücülerin davranışları genel olarak kazaya karışma riskini artırır; bu nedenle riskin azalması beklenmez.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g7_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "I. Orta refüjlere ve yol kenarlarına dikilen ağaçların zarar görmesi\nII. Köprü ve tünel gibi noktalarda yaşanan kazalarda ulaşımın aksaması\nIII. Trafo ve elektrik direğine çarpma gibi durumlarda kesintilerin yaşanması\nIV. Bilhassa yakıt, kimyasal madde, tıbbi atık vs. yüklü araçların yaptığı kazalar neticesinde büyük ekolojik zararların görülmesi\n\nYukarıdakilerden hangileri kara yolundameydana gelen trafik kazalarının kişiye, topluma, kamuya ve çevreye verdiği zararlardandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I ve II.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I, III ve IV.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II, III ve IV.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II, III ve IV.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Verilen tüm durumlar, trafik kazalarının yol açtığı zararların farklı boyutlarını (insan, toplumsal, kamu ve çevre) temsil eder.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 7,
+  "testId": "trafikadabi_group_7",
+  "name": "Trafik ve Çevre Test 7"
+}

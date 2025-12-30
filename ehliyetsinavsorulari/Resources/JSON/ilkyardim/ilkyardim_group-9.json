@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g9_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "I. Yaşamı korumak\nII. İyileşmeyi kolaylaştırmak\nIII. Durumun kötüye gitmesini önlemek\n\nYukarıda verilenlerden hangileri ilk yardımın amaçlarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "İlk yardımın temel amaçları, yaralının yaşamını kurtarmak, iyileşme sürecini desteklemek ve mevcut durumun daha da kötüleşmesini önlemektir; hepsi birbirini tamamlayan önemli adımlardır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g9_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "“Vücut dokularının oksijen, besin, hormon,bağışıklık ve benzeri elemanlarını taşıyarak yeniden geriye toplayan sistemdir.” \n\nYukarıdaki açıklama, vücudu oluşturan sistemlerden hangisine aittir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hareket sistemi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sindirim sistemi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Dolaşım sistemi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Boşaltım sistemi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Dolaşım sistemi, kalp, damarlar ve kan yoluyla vücudun her noktasına oksijen ve besin taşır; böylece dokuların yaşamsal fonksiyonları devam eder. Bu sistem, vücut için hayati öneme sahiptir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g9_q3",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "• Yaralanmanın ciddiyetinin değerlendirilmesi\n• İlk yardım önceliklerinin belirlenmesi\n• Yapılacak ilk yardım yönteminin belirlenmesi\n• Güvenli bir müdahale sağlanması\n\nVerilenler aşağıdakilerden hangisinin amacını oluşturur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yaralıyı değerlendirmenin",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Trafik kazalarını azaltmanın",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sağlık personeli niteliği kazanmanın",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "İnsanları zararlı alışkanlıklarından uzaklaştırmanın",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "İlk yardım sürecinde, yaralının durumunun doğru tespiti, hangi müdahalenin öncelikli olduğunu belirlemek için temel adımdır. Bu değerlendirme, müdahale sırasında yapılacak işlemlerin yönünü belirler.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g9_q4",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Resimde görülen ilk yardım uygulaması,aşağıdaki durumların hangisinde tercih edilmez?",
+      "type": "image",
+      "options": [
+        {
+          "key": "a",
+          "text": "Uzuv kopması varsa",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Baskı noktalarına baskı uygulamak yeterliyse",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Çok sayıda kazazedenin bulunduğu bir ortamda tek ilk yardımcı varsa",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kanaması durdurulamayan kazazede güç koşullarda bir yere taşınacaksa",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Etkili bir kanama kontrolü sağlanabiliyorsa, fazla baskı uygulamaya gerek yoktur. Ancak, gerektiğinde doğru basınç uygulanmalı; fakat eğer baskı noktasına uygun basınç yeterliyse, aşırı müdahale istenmeyen komplikasyonlara neden olabilir.",
+      "mainImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAAB3CAMAAAB8BI9LAAACOlBMVEX////k5ebk5ebk5eb////u7u7////u7u7///////////////////////////////////////////////////////////////////////////////////////8AAAD///////////9zbXCbc4dsVWHd19tNQkfTx82/p7K2qrHCrriWXHiVTXDNd5+vlaOVWHV/VGmvU4CtUX6CVWt4XmyyVIKIiInGcpeukZ/3c62/epr1rMrDp7eFYXPJg6OdUXXzdKixZIe1ZYvndqbed6RzUWKVZHvwdKnghKxlUVz31OZzXGjztNGkeo/oe6rlnL6pqqrwz+G3gpvulr3sjbXwrsv8zOL9dK6YmJmnm6O0bpBra2t3eHidW3vun8KFbHmUlJT0sM3og7KMcn77zeL3w9rvmb33xt3NmrFeXl/R0tPa2tufkJqYmZm5ubqIiYnKy8zAb5WQkZHueqrypsbOzs7+1+ra29vJf5/k5eb93+/S09PXeqXnkrfAwcL1v9f+9/4ICAisiJm+i6ExMTGlTnj///86Ojru7u4pKSnKyst7e3tKSkpSUlKtra3/5vafTXRvb3AgICBnZ2gYGBjh4uNiYmPdiav45fGmcIjUuca9vb3i4+PW1taDg4OMjI1YTVT+7vl7a3OoqapZWlqcnJwQEBDtga6XUnP/8fzFxsapborBwsK1tbUAAACgoKFzc3OMg4j39/ehTnakpKTVzNSOTm2kUnmsXoLd3d5CQkKRYHexsbK5o64DDLZcAAAAInRSTlOBlgOtxwP6lOxN+QWSkwaUxK3FlukDWOvqgFf46MYATJEQgezvEwAAEQ1JREFUeNrVXPu/3MZVv0BpQ5oEmjrBbtO45lUehUJCQsIrpGniNFCnaW1IEVDRQt2aR0ps1YzT1FdF6FFp5rpCdwrVlVRTSUkEmg5CxUgt/xszI+2uVrt7rXV2792dH3yt/WhX853z+p4zR7Pz8Gi8+/QHP/DQ+/UtG+9/6AMfPP3uMYid9u+ZUycHfb0AG4jpp0+dmYbz4EMDv5ln/U82At9DD3bgPPDewd+jZv+TcjMk9N4HRnAeeM/wb8Uz2hduiMa954EWzr3DvwOkGeHkm2JBP9nAed8SXylnVKs2N8YjvI/DOXNiiW/E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"
+    },
+    {
+      "id": "ilkyardim_g9_q5",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "I. Bir el kazazedenin alnına, diğer elin 2 parmağı çene kemiğinin üzerine konulur.\nII. Alından bastırılıp çeneden kaldırılarak baş geriye doğru itilir.\nIII. İşlemler sırasında sert hareketler tercih edilir.\n\nYukarıdakilerden hangileri, Baş geri-Çene yukarı pozisyonunun uygulama basamaklarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve III",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Baş geri-çene yukarı pozisyonunda nazikçe hareket etmek esastır. Bu yöntemde, alnın üzerine hafif dokunarak çene desteklenir (I) ve çene kontrollü bir şekilde kaldırılarak baş geriye itilmelidir (II). Sert hareketler (III) ise omurga yaralanmalarını tetikleyebileceğinden uygulanmamalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g9_q6",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, bebeklere yapılan suni solunum uygulamasında dikkat edilecek kurallardandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bebeğin yumuşak bir zemin üzerine, sırt üstü yatırılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hava yolu tıkanıklığına neden olan yabancı cisim varsa bebeğin yutmasının sağlanması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bebeğin solunum yapıp yapmadığının bak-dinle-hisset yöntemiyle 1 dakika süre ile kontrol edilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Solunum yoksa ağzın, bebeğin ağız ve burnunu içine alacak şekilde yerleştirilip ağız dolusu nefes verilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Bebeklerin hava yolları yetişkinlere göre daha dar olduğundan, suni solunum sırasında ağzın bebeğin ağız ve burnunu tam şekilde kapatması gerekir. Böylece, hava basıncı etkin şekilde aktarılır ve bebekte oksijen alışverişi sağlanır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g9_q7",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yarı oturur pozisyon verilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Fiziksel hareketinin artırılması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hava yolu açıklığının sağlanması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Soğuk suyla ıslatılmış çarşafla üzerinin örtülmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Şok durumundaki kazazedelerde, hayati fonksiyonların sürdürülebilmesi için öncelikle hava yolunun açık tutulması gerekir. Bu, oksijen alımını garanti altına alır ve vücudun genel stabilitesini korur. Diğer müdahaleler şok durumunda ani zarar verebilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g9_q8",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Taş, yumruk ya da sopa gibi etkenlerin şiddetli olarak çarpması ile oluşan yaralara ne ad verilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kesik yaralar",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Ezikli yaralar",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Delici yaralar",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Parçalı yaralar",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Şiddetli darbenin neden olduğu yaralanmalarda dokular ezilir; bu durum 'ezik yaralar' olarak adlandırılır. Kesikler ve delici yaralar farklı mekanizmalarla oluşur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g9_q9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Bayılan bir kazazedenin kusması varsa hangi pozisyonda tutulmalıdır? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Baş geride yarı oturuş",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sırtüstü yatış",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Dik oturuş",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yan yatış",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Bayılan ve kusma riski taşıyan bir kazazedede, aspirasyon riskini en aza indirgemek için yan yatış pozisyonuna alınması gerekir. Bu pozisyon, hava yolunun açık kalmasını sağlar.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g9_q10",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Trafik kazalarında ölümlerin % 80’i kafatası ve omurga yaralanmalarından olmaktadır. Bu yaralanmalarda bilinçli ilk yardım, sakatlıkları önler ve hayatı kurtarır.\n\nBuna göre, aşağıdakilerden hangisi kafatası ve omurga yaralanmalarında yapılması gereken ilk yardım uygulamalarındandır? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kazazedenin yalnız bırakılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Baş-boyun-gövde ekseninin korunması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bilinci açıksa hareket etmesinin sağlanması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hava yolu açıklığını sağlamak için koma pozisyonu verilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Kafatası ve omurga yaralanmalarında, yaralının boyun ve omurga bölgesinde oluşabilecek daha fazla hasarı önlemek için, vücudun ekseninin stabil tutulması çok önemlidir. Bu nedenle, baş-boyun-gövde ekseninin korunması gerekmektedir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g9_q11",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Dıştan veya içten etki eden kuvvetlerle kemik dokusunda oluşan ayrılmaya veya bu sebeplerle kemiğin anatomik bütünlüğünün ve devamlılığının bozulmasına - - - - denir.\n\nBu ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "kırık",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "çıkık",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "donma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "burkulma",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kemik dokusunun, dışarıdan veya içerden gelen kuvvetlerle ayrılması, kemiğin yapısal bütünlüğünün bozulması durumuna 'kırık' denir. Diğer terimler (çıkık, burkulma) eklem ve yumuşak doku yaralanmalarını tarif etmekte kullanılır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g9_q12",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Kaza geçirmiş yaralıda, solunum ve dolaşım durması varsa ya da olay yerinde yangın ve patlama gibi tehlikeli bir durum söz konusuysa omuriliğine zarar vermeden araçtan çıkarılmasında kullanılan tekniğe ne ad verilir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ayak bileklerinden sürükleme yöntemi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Heimlich manevrası",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Rentek manevrası",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "İtfaiyeci yöntemi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Rentek manevrası, özellikle omuriliğe zarar vermeden yaralının güvenli bir şekilde araçtan çıkarılmasını sağlayan ve dikkatle uygulanması gereken bir tekniktir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 9,
+  "testId": "ilkyardim_group_9",
+  "name": "İlk Yardım Test 9"
+}

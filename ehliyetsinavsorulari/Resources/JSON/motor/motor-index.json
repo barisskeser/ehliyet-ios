@@ -1,0 +1,179 @@
+{
+  "categoryId": "motor",
+  "categoryName": "Motor",
+  "color": "#e67e22",
+  "totalGroups": 34,
+  "totalQuestions": 306,
+  "groups": [
+    {
+      "groupNumber": 1,
+      "groupId": "motor_group_1",
+      "file": "motor_group-1.json"
+    },
+    {
+      "groupNumber": 2,
+      "groupId": "motor_group_2",
+      "file": "motor_group-2.json"
+    },
+    {
+      "groupNumber": 3,
+      "groupId": "motor_group_3",
+      "file": "motor_group-3.json"
+    },
+    {
+      "groupNumber": 4,
+      "groupId": "motor_group_4",
+      "file": "motor_group-4.json"
+    },
+    {
+      "groupNumber": 5,
+      "groupId": "motor_group_5",
+      "file": "motor_group-5.json"
+    },
+    {
+      "groupNumber": 6,
+      "groupId": "motor_group_6",
+      "file": "motor_group-6.json"
+    },
+    {
+      "groupNumber": 7,
+      "groupId": "motor_group_7",
+      "file": "motor_group-7.json"
+    },
+    {
+      "groupNumber": 8,
+      "groupId": "motor_group_8",
+      "file": "motor_group-8.json"
+    },
+    {
+      "groupNumber": 9,
+      "groupId": "motor_group_9",
+      "file": "motor_group-9.json"
+    },
+    {
+      "groupNumber": 10,
+      "groupId": "motor_group_10",
+      "file": "motor_group-10.json"
+    },
+    {
+      "groupNumber": 11,
+      "groupId": "motor_group_11",
+      "file": "motor_group-11.json"
+    },
+    {
+      "groupNumber": 12,
+      "groupId": "motor_group_12",
+      "file": "motor_group-12.json"
+    },
+    {
+      "groupNumber": 13,
+      "groupId": "motor_group_13",
+      "file": "motor_group-13.json"
+    },
+    {
+      "groupNumber": 14,
+      "groupId": "motor_group_14",
+      "file": "motor_group-14.json"
+    },
+    {
+      "groupNumber": 15,
+      "groupId": "motor_group_15",
+      "file": "motor_group-15.json"
+    },
+    {
+      "groupNumber": 16,
+      "groupId": "motor_group_16",
+      "file": "motor_group-16.json"
+    },
+    {
+      "groupNumber": 17,
+      "groupId": "motor_group_17",
+      "file": "motor_group-17.json"
+    },
+    {
+      "groupNumber": 18,
+      "groupId": "motor_group_18",
+      "file": "motor_group-18.json"
+    },
+    {
+      "groupNumber": 19,
+      "groupId": "motor_group_19",
+      "file": "motor_group-19.json"
+    },
+    {
+      "groupNumber": 20,
+      "groupId": "motor_group_20",
+      "file": "motor_group-20.json"
+    },
+    {
+      "groupNumber": 21,
+      "groupId": "motor_group_21",
+      "file": "motor_group-21.json"
+    },
+    {
+      "groupNumber": 22,
+      "groupId": "motor_group_22",
+      "file": "motor_group-22.json"
+    },
+    {
+      "groupNumber": 23,
+      "groupId": "motor_group_23",
+      "file": "motor_group-23.json"
+    },
+    {
+      "groupNumber": 24,
+      "groupId": "motor_group_24",
+      "file": "motor_group-24.json"
+    },
+    {
+      "groupNumber": 25,
+      "groupId": "motor_group_25",
+      "file": "motor_group-25.json"
+    },
+    {
+      "groupNumber": 26,
+      "groupId": "motor_group_26",
+      "file": "motor_group-26.json"
+    },
+    {
+      "groupNumber": 27,
+      "groupId": "motor_group_27",
+      "file": "motor_group-27.json"
+    },
+    {
+      "groupNumber": 28,
+      "groupId": "motor_group_28",
+      "file": "motor_group-28.json"
+    },
+    {
+      "groupNumber": 29,
+      "groupId": "motor_group_29",
+      "file": "motor_group-29.json"
+    },
+    {
+      "groupNumber": 30,
+      "groupId": "motor_group_30",
+      "file": "motor_group-30.json"
+    },
+    {
+      "groupNumber": 31,
+      "groupId": "motor_group_31",
+      "file": "motor_group-31.json"
+    },
+    {
+      "groupNumber": 32,
+      "groupId": "motor_group_32",
+      "file": "motor_group-32.json"
+    },
+    {
+      "groupNumber": 33,
+      "groupId": "motor_group_33",
+      "file": "motor_group-33.json"
+    },
+    {
+      "groupNumber": 34,
+      "groupId": "motor_group_34",
+      "file": "motor_group-34.json"
+    }
+  ]
+}

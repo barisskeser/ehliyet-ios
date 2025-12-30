@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g2_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "I. Trafikteki bütün kuralların nedenini öğrenir.\nII. Araç kullanırken yapacağı bir kural ihlalinin sonucunda sadece maddi ceza olduğunu düşünür.\nIII. Trafik içinde yapacağı bir kural ihlalinde, kendisinin ya da sevdiklerinin canını tehlikeye attığının farkında değildir.\n\nYukarıdakilerden hangileri trafik adabına sahip olan bir sürücü için söylenebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Trafik adabına sahip olan bir sürücü, trafikteki bütün kuralların nedenini öğrenir ve bu kurallara uymaya özen gösterir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g2_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Ailesi ile birlikte yolculuk yapan bir sürücü, aracını hız limitlerini aşarak sürdüğünde ailesinin hayatını da tehlikeye atmış olacaktır.\n\nBu sürücü, hız ihlalinden kaynaklanan olası bir kazada sevdiklerinin canını riske atmakla trafikte aşağıdaki değerlerden hangisini yerine getirmemiş olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hırçınlık",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bencillik",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sorumluluk",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hoşnutsuzluk",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Sorumluluk, bir kişinin kendi davranışlarının sonuçlarının farkında olup, bu sonuçları önleyebilecek önlemleri almaya çalışmasıdır. Bu sürücü, hız ihlalinden kaynaklanan bir kaza sonucunda ailesinin hayatını tehlikeye atmış olacaktır ve bu davranışı, trafikte sorumluluk sahibi bir birey olarak düşünülemez.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g2_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Öndeki araç yol kenarına park etmeye çalışırken arkadan gelen diğer aracın onu beklemesi durumu, trafikte aşağıdaki değerlerden hangisine sahip olunduğunu gösterir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfke",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sabır",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "İnatlaşma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aşırı tepki",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Sabır, bir kişinin olaylara ve diğer insanlara karşı tahammül ve sükûnet göstermesidir. Sabır sahibi olan sürücüler, trafikte oluşabilecek tıkanıklıklara ve gecikmelere karşı öfke veya aşırı tepki göstermezler.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g2_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdaki değerlerden hangisine sahip olan sürücü, yoğun trafikte bir dizi hâlinde gitmekte olan diğer sürücülerin önlerine geçip trafiği daha da sıkışık hâle getirerek yoluna devam etmez?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bencil",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sorumsuz",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Görgü seviyesi düşük",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Empati düzeyi yüksek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Empati, bir kişinin başka bir kişinin duygu ve düşüncelerini anlayabilme yeteneğidir. Empati düzeyi yüksek olan sürücüler, diğer sürücülerin düşünce ve duygularını dikkate alarak, trafikte düşüncesiz ve bencil davranışlardan kaçınırlar. Bu nedenle, yoğun trafikte bir dizi hâlinde gitmekte olan diğer sürücülerin önlerine geçip trafiği daha da sıkışık hâle getirme gibi düşüncesiz ve bencil davranışlarda bulunmayacaklardır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g2_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Seyir hâlindeki sürücünün, yaptığı bir hatadan dolayı eliyle veya yüz ifadesiyle diğer sürücülerden özür dilemesi trafikte aşağıdakilerden hangisinin kullanıldığına örnek olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Beden dilinin",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bencilliğin",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "İnatlaşmanın",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Tahammülsüzlüğün",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Beden dilini, bir kişinin düşüncelerini, duygularını ve niyetlerini ifade etmek için vücut hareketleri, mimikler ve göstergeler kullandığı dil olarak tanımlayabiliriz. Sürücüler, trafikte beden dilini kullanarak birbirlerine iletişim kurabilirler. Örneğin, sürücüler birbirlerine yol vermek istediğini göstermek için el sallayabilirler veya diğer sürücülerden özür dilemek istediğini göstermek için eliyle veya yüz ifadesiyle özür dileyebilirler.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g2_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi trafikte bireye yapılan hak ihlallerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aşırı hız yapmaktan kaçınılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Geçiş önceliğine sahip araçlara yol verilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafikte sürücülerin tek başına olmadığının düşünülmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Engeli olmadığı hâlde engelli kişiler için ayrılmış yerlere park edilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafikte, her bir araç sürücüsünün diğer sürücülere ve yayalara karşı belli bir saygı ve hoşgörü göstermesi beklenir. Bu saygı ve hoşgörü, trafikte hak ihlallerine sebep olabilecek davranışları önlemek amacıyla önemlidir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 2,
+  "testId": "trafikadabi_group_2",
+  "name": "Trafik ve Çevre Test 2"
+}

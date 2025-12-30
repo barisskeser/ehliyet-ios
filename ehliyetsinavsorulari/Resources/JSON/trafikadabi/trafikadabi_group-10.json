@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g10_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Sürücülerin trafik içindeki davranışlarının sonuçlarını düşünerek hareket etmesi hâli, trafikte hangi temel değere sahip olunduğunu gösterir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kabalık",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hırçınlık",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bencillik",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sorumluluk",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Sorumluluk sahibi bir sürücü, kural ihlallerinin ve tehlikeli davranışların sonuçlarını öngörür; bu, hem kendisinin hem de diğer yol kullanıcılarının güvenliğini sağlar.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g10_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Hangi özelliğe sahip olmayan sürücünün sabırsız, öfkeli, yorgun, stresli ve iletişim becerileri eksik bir kişi olma ihtimali daha fazladır? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bencil",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hoşgörülü",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Aşırı tepki gösteren",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Görgüsüzce davranan",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Hoşgörülü olmak, trafikte karşılaşılan zorluklar karşısında sakin kalabilmek ve diğer sürücülerin hatalarını tolere edebilmek anlamına gelir. Hoşgörü eksikliği öfke ve stresle sonuçlanır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g10_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi, trafik kazalarının ülke ekonomisine verdiği zararlardan biri değildir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafik işaretlerinin hasar görmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kara yollarının zamanından önce yıpranması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafik suçlarına uygulanan cezaların artırılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yol kenarındaki oto korkuluklarının tahrip Olması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Fiziksel hasarlar; trafik işaretleri, yollar ve korkuluklar, ekonomik kayıplara yol açarken, cezaların artırılması devletin gelir politikası kapsamına girer ve doğrudan ekonomik zarar olarak değerlendirilmez.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g10_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Geçme yapan araca, geçilmekte olan araç sürücüsünün yavaşlayıp kolaylık sağlaması durumu, trafikte hangi temel değerle ifade edilir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bencillik",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İnatlaşmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Diğergamlık",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sorumsuzluk",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Diğergamlık; diğer yol kullanıcılarının ihtiyaçlarını gözetmek, onlara yol açmak için yavaşlamak gibi fedakârlık ve anlayış gösterme davranışıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g10_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Kural ihlallerine\nTehlikeli davranışlara\nGüvenli sürücülük yeteneklerini olumlu yönde etkilemeye\n\nTrafikte yaşanan öfke duygusu, verilenlerden hangilerine yol açabilmektedir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve III",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Öfke, sürücüyü kontrolsüz kılar; bu da kural ihlallerine ve tehlikeli davranışlara neden olur. Ancak, öfkenin sürücü yeteneklerini iyileştirmesi beklenmez.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g10_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Sürücü, trafik içinde yapacağı bir kural ihlalinde kendisinin ya da sevdiklerinin canını tehlikeye attığının farkında olmalıdır.\n\nBu farkındalığı kazanmak için yapılması gereken aşağıdakilerden hangisidir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kızgın ve yarışmacı motivasyon ile araç kullanılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Karşılıklı saygının öncelikle başkalarından beklenmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kural ihlalinin sonucunda sadece maddi ceza olduğunun düşünülmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafikteki her kuralın altında yatan güvenlik gerekçelerinin sorgulanıp öğrenilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kural ihlallerinin ardındaki gerçek nedenleri ve güvenlik prensiplerini öğrenmek, sürücünün bilinçli karar vermesini sağlar; bu sayede hem kendisi hem de yolcuları için riskler minimize edilir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 10,
+  "testId": "trafikadabi_group_10",
+  "name": "Trafik ve Çevre Test 10"
+}

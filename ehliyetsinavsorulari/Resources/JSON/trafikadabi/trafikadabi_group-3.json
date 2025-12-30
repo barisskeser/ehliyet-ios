@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g3_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdaki davranışlardan hangisi trafik adabına sahip bir sürücü için uygundur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafik polisi yoksa kırmızı ışıkta geçmek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sürekli şerit değiştirerek araç kullanmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Denetim korkusu olmadan emniyet kemerini takmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Elektronik denetleme sisteminin olmadığı yerlerde hız limitlerini aşmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Emniyet kemeri, sürüş sırasında başınızı, beyninizi ve diğer vücut bölgelerinizi çeşitli yaralanmalardan korur. Bu nedenle, emniyet kemerini takma, trafik adabına uygun bir davranıştır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g3_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi hoşgörülü olma özelliği taşımayan sürücülerin özelliklerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfkeli olmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sabırlı davranmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Başarılı iletişim kurmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kural ihlalinden kaçınmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Öfkenizi kaybetmek kolaydır, ancak onun etkisi altında tepki verdikten sonra, zarar gören bir şeyi geri alamazsınız. İlk etapta öfkenin artmasına izin vermemeye çalışmak en iyisidir. Daha rahat bir şekilde sürmeye çalışın ve diğer sürücüleri gereksiz yere rahatsız etmeyin.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g3_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Trafikte kırmızı ışıkta beklerken ışık sarıya döner dönmez önündeki araca korna çalan, ışığın yeşile dönmesi için 1 saniye bile bekleyemeyen sürücünün bu davranışı için aşağıdakilerden hangisi söylenebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Saygılı",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Telaşsız",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sorumlu",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sabırsız",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafikte şayet sabırsız davranıp hızlı gidersek, ışıkları ve kuralları hiçe sayarsak hem kendimizin hem de diğer canlıların yaşamını tehlikeye atmış oluruz.Olası bir kaza kaçınılmazdır.Bu yüzden saygısız ve ihmalkar davranışlardan kaçınmalıyız.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g3_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdaki temel değerlerden hangisini içselleştirmiş bir sürücü, trafikte kendinden çok başkalarını düşünür ve başkalarının iyiliği için fedakârlık yapar?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bencillik",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Diğergamlık",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Nezaketsizlik",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hoşgörüsüzlük",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Diğerkâmlık veya altruism, bireyin herhangi bir çıkar gözetmeden, dışarıdan ödül beklemeden, hatta bazen de bir bedel ödeyerek diğer bireylerin veya toplumun iyiliği uğruna fedakârlıkta bulunmasını prensip edinen bir tutumdur.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g3_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Sürücüler, beden dilini ve konuşma üslubunu da dikkate alarak trafik adabı açısından başarılı iletişim kurma becerilerini geliştirmek için aşağıdakilerden hangisini yapmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "İnsanların değişebildiğine inanmalıdır.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Dinlerken aynı zamanda değerlendirme eğiliminde olmalıdır.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Karşısındakinin kişiliğini sevmediğinde zihnini ona kapatmalıdır.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Tek bir olayın, birini anlamak için yeterli bir örnek olduğunu düşünmelidir.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Trafik adabı açısından başarılı iletişim kurma becerilerini geliştirmeyi hedefleyen yararlı bir yöntemdir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g3_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "I. Geçiş üstünlüğüne sahip araçlara yol vermek\nII. Aşırı hız yaparak diğer sürücülerin dikkatlerini dağıtmak\nIII. Engeli olmadığı hâlde engelli kişiler için ayrılmış yerlere park etmek\n\nYukarıdakilerden hangileri trafikte bireye yapılan hak ihlallerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Trafik kuralları ile birey olarak bizlerin ve diğer insanların hakları ve yükümlülükleri belirlenmektedir. İşte bu belirlenen kurallara uyulmadığında yayalar, sürücüler ve bisikletliler diğer insanların haklarını ihlal etmiş olurlar.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 3,
+  "testId": "trafikadabi_group_3",
+  "name": "Trafik ve Çevre Test 3"
+}

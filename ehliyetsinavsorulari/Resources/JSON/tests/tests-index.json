@@ -1,0 +1,276 @@
+{
+  "tests": [
+    {
+      "id": "test-1",
+      "fileName": "test-1",
+      "title": "Test 1",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": false
+    },
+    {
+      "id": "test-2",
+      "fileName": "test-2",
+      "title": "Test 2",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-3",
+      "fileName": "test-3",
+      "title": "Test 3",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-4",
+      "fileName": "test-4",
+      "title": "Test 4",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-5",
+      "fileName": "test-5",
+      "title": "Test 5",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-6",
+      "fileName": "test-6",
+      "title": "Test 6",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-7",
+      "fileName": "test-7",
+      "title": "Test 7",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-8",
+      "fileName": "test-8",
+      "title": "Test 8",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-9",
+      "fileName": "test-9",
+      "title": "Test 9",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-10",
+      "fileName": "test-10",
+      "title": "Test 10",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-11",
+      "fileName": "test-11",
+      "title": "Test 11",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-12",
+      "fileName": "test-12",
+      "title": "Test 12",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-13",
+      "fileName": "test-13",
+      "title": "Test 13",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-14",
+      "fileName": "test-14",
+      "title": "Test 14",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-15",
+      "fileName": "test-15",
+      "title": "Test 15",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-16",
+      "fileName": "test-16",
+      "title": "Test 16",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-17",
+      "fileName": "test-17",
+      "title": "Test 17",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-18",
+      "fileName": "test-18",
+      "title": "Test 18",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-19",
+      "fileName": "test-19",
+      "title": "Test 19",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-20",
+      "fileName": "test-20",
+      "title": "Test 20",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-21",
+      "fileName": "test-21",
+      "title": "Test 21",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-22",
+      "fileName": "test-22",
+      "title": "Test 22",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-23",
+      "fileName": "test-23",
+      "title": "Test 23",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-24",
+      "fileName": "test-24",
+      "title": "Test 24",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-25",
+      "fileName": "test-25",
+      "title": "Test 25",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-26",
+      "fileName": "test-26",
+      "title": "Test 26",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-27",
+      "fileName": "test-27",
+      "title": "Test 27",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-28",
+      "fileName": "test-28",
+      "title": "Test 28",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-29",
+      "fileName": "test-29",
+      "title": "Test 29",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-30",
+      "fileName": "test-30",
+      "title": "Test 30",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-31",
+      "fileName": "test-31",
+      "title": "Test 31",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-32",
+      "fileName": "test-32",
+      "title": "Test 32",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-33",
+      "fileName": "test-33",
+      "title": "Test 33",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    },
+    {
+      "id": "test-34",
+      "fileName": "test-34",
+      "title": "Test 34",
+      "totalQuestions": 50,
+      "category": "Genel",
+      "isPremium": true
+    }
+  ]
+}

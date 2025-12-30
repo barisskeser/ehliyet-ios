@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g19_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "I- Yara içi kurcalanır.\nII- Saplanan yabancı cisim çıkarılmaz.\nIII- Yaranın üzeri kapatılarak tıbbi yardım istenir.\n\nYukarıdakilerden hangileri, ciddi yaralanmalarda yapılması gereken doğru bir ilk yardım uygulamasıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I,II ve II",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Ciddi yaralanmalarda yabancı cisim çıkartılmamalı ve yara temiz bir bezle kapatılarak tıbbi yardım istenmelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g19_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "Boyun kırıklarında, yanlış taşıma ve gereksiz hareketler yapılması aşağıdakilerden hangisine neden olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Saç dökülmesine",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Omurilik zedelenmesine",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bilinç seviyesinin artmasına",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Temel yaşam desteğinin sağlanmasına",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Boyun kırıklarında omuriliğe zarar verecek her hareket felç veya hayati risk oluşturabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g19_q3",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi burkulan bölgenin şişmesini önlemek amacıyla yapılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Burkulan bölgenin kalp seviyesinden yüksekte tutulması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Burkulan bölgenin sürekli hareket ettirilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Burkulan bölgeye sıcak uygulama yapılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Burkulan bölgeye masaj yapılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Burkulan bölgenin kalp seviyesinden yüksek tutulması şişliği ve kan toplanmasını azaltır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g19_q4",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Koma hâlindeki kazazedeye aşağıdakilerden hangisi yapılmaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Solunum ve nabız kontrolü",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sıkan giysilerin gevşetilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Ağızdan yiyecek, içecek verilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Ağız içinde yabancı cisim olup olmadığının kontrolü",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Bilinç kapalıyken kazazedeye ağızdan yiyecek ya da içecek verilmesi soluk yolunu tıkayarak tehlike yaratabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g19_q5",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Kaza geçirmiş yaralının hayatını tehdit eden bir tehlike söz konusu ise omuriliğine zarar vermeden araç içerisinden çıkartmak için ................ olarak adlandırılan teknikten yararlanılır. Verilen ifadede noktalarla belirtilen yere aşağıdakilerden hangisi yazılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sırtta taşıma yöntemi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Rentek manevrası",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "İtfaiyeci yöntemi ile omuzda taşıma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Ayak bileklerinden sürükleme yöntemi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Araç içinden kazazedeyi omuriliğine zarar vermeden çıkartmak için Rentek manevrası uygulanır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g19_q6",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi ilk yardımın amaçlarından biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "İlaçla tedavi etmek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Durumun kötüleşmesini önlemek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hayati tehlikeyi ortadan kaldırmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yaşamsal fonksiyonların sürdürülmesini sağlamak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "İlk yardımda ilaçla tedavi uygulanmaz; amaç hayati tehlikeyi önlemek ve profesyonel yardıma kadar durumu sabit tutmaktır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g19_q7",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi vücudun tamamında faaliyet gösterir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sindirim sistemi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Dolaşım sistemi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Boşaltım sistemi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Solunum sistemi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Dolaşım sistemi, oksijen ve besinleri vücudun tüm bölgelerine taşıyarak bütün bedende faaliyet gösterir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g19_q8",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi ilk yardımın ABC'si içinde yer almaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kırıkların tespit edilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Dolaşımın değerlendirilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Solunumun değerlendirilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hava yolu açıklığının değerlendirilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "İlk yardımın ABC'sinde A-hava yolu, B-solunum, C-dolaşım değerlendirilir. Kırık tespiti bu temel değerlendirmenin dışında kalır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g19_q9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "• Bir el alına yerleştirilir.\n•Diğer elin iki parmağı çene kemiğinin üzerine yerleştirilir.\n•Alından bastırılıp, çeneden kaldırılarak baş geriye doğru itilir.\n\nKazazedenin hava yolunu açmak için, uygulama tekniği verilen pozisyon aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şok pozisyonu",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yarı oturuş pozisyonu",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Baş geri-çene yukarı pozisyonu",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yarı yüzükoyun-Yan pozisyon",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Bu teknik hava yolunu açmak amacıyla 'baş geri - çene yukarı' pozisyonu olarak uygulanır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g19_q10",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Bebeklerde uygulanan dış kalp masajında göğüs kemiğine dakikada kaç kez bası yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "40",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "60",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "80",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "100",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Bebeklerde dış kalp masajı yaklaşık dakikada 100 kez olacak hızda uygulanır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g19_q11",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Hangi durumdaki kazazede kesinlikle sedye ile taşınmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Omurgasında kırık olan",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kaburgasında kırık olan",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Birinci derece yanığı olan",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kolunda yara ve kırık olan",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Omurga yaralanmasında yanlış taşıma felç riski doğurabilir. Bu nedenle sedye ile sabit şekilde taşınmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g19_q12",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdaki kanama türlerinden hangisinde, kan kaybı diğerlerine nazaran fazla olduğu için daha kısa sürede hayati tehlike meydana gelir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Burun kanamaları",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Atardamar kanamaları",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kılcal damar kanamaları",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Toplardamar kanamaları",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Atardamar kanamalarında kan fışkırır tarzda aktığından çok hızlı kan kaybı olur ve kısa sürede hayati tehlike oluşabilir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 19,
+  "testId": "ilkyardim_group_19",
+  "name": "İlk Yardım Test 19"
+}

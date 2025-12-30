@@ -1,0 +1,17 @@
+{
+  "category": "Direksyon sınavına hazırlık",
+  "categoryId": "direksiyonsinavinahazirlik",
+  "totalItems": 10,
+  "items": [
+    {"id": 1, "title": "Arabaya Giriş ve Ön Hazırlıklar", "fileName": "direksiyonsinavinahazirlik1.html"},
+    {"id": 2, "title": "Direksiyon Hakimiyeti", "fileName": "direksiyonsinavinahazirlik2.html"},
+    {"id": 3, "title": "Durma - Duraklama - Takip Mesafesi - Aynalar - U Dönüşü ve Trafik İşaretleri", "fileName": "direksiyonsinavinahazirlik3.html"},
+    {"id": 4, "title": "Geri Geri Gelme", "fileName": "direksiyonsinavinahazirlik4.html"},
+    {"id": 5, "title": "Geri Geri Park Etme", "fileName": "direksiyonsinavinahazirlik5.html"},
+    {"id": 6, "title": "Hata Yaptıysanız", "fileName": "direksiyonsinavinahazirlik6.html"},
+    {"id": 7, "title": "Heyecan Faktörü", "fileName": "direksiyonsinavinahazirlik7.html"},
+    {"id": 8, "title": "Sinyaller", "fileName": "direksiyonsinavinahazirlik8.html"},
+    {"id": 9, "title": "Trafikte Seyrederken", "fileName": "direksiyonsinavinahazirlik9.html"},
+    {"id": 10, "title": "Yokuşta Kalkış", "fileName": "direksiyonsinavinahazirlik10.html"}
+  ]
+}

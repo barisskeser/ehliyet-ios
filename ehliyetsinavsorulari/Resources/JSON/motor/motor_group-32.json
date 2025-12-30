@@ -1,0 +1,297 @@
+{
+  "categoryId": "motor",
+  "questionCount": 9,
+  "questions": [
+    {
+      "id": "motor_g32_q1",
+      "order": 1,
+      "categoryId": "motor",
+      "question": "Dizel motorlarda yakıtın ateşlenmesi nasıl olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Buji kıvılcımı ile",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Elektrik motoru ile",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Dışarıdan ısıtılarak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sıkıştırılan havanın sıcaklığı ile",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Dizel motorlarda, yakıt sıkıştırma sonucu havanın ısınması ile ateşlenir; buji kullanılmaz.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q2",
+      "order": 2,
+      "categoryId": "motor",
+      "question": "I- Frenler\nII- Lastikler\nIII- Yakıt seviyesi\n\nAracı kullanmaya başlamadan önce, yukarıda verilenlerden hangilerinin durumu iyi olmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kış mevsiminde akü, lastik ve antifriz kontrolleri mutlaka yapılmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q3",
+      "order": 3,
+      "categoryId": "motor",
+      "question": "Taşıtla ilgili sistemlerin çalışma durumlarını bildiren ışıklı, sesli veya ibreli uyarıcıların toplandığı bölüme ne ad verilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kabin",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Gösterge paneli",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Başlık",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sigorta tablası",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Araçtaki tüm uyarı ve bilgilendirme sistemlerinin bulunduğu bölüm 'gösterge paneli' olarak adlandırılır.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q4",
+      "order": 4,
+      "categoryId": "motor",
+      "question": "Aşağıdakilerden hangisinin periyodik bakımı yapılmadığında yakıt sistemine yeterli miktarda yakıt ulaşmaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yağ filtresi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Polen filtresi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yakıt filtresi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Ekran filtresi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Yakıt filtresi düzenli olarak temizlenmez ya da değiştirilmezse, tıkanarak yakıtın motora ulaşımını engeller.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q5",
+      "order": 5,
+      "categoryId": "motor",
+      "question": "Motor yağ seviyesinin tavsiye edilenden az veya çok olması aşağıdakilerden hangisine neden olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "El freninin daha iyi tutmasına",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Motor parçalarının zarar görmesine",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Egzoz susturucusunun delinmesine",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Lastik hava basınçlarının düşmesine",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Önerilen yağ seviyesinin dışına çıkılması, motorun aşırı ısınmasına ve parçaların yıpranarak zarar görmesine neden olur.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q6",
+      "order": 6,
+      "categoryId": "motor",
+      "question": "Aşağıdakilerden hangisi sürüş sırasında aracın bir tarafa çekmesine sebep olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Lastiklerden birinin hava basıncının farklı olması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yakıt deposunun dolu olması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bujilerin ayarsız olması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aracın hızlı sürülmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Lastik hava basınçlarının eşitsiz olması, aracın bir tarafa çekilmesine neden olur.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q7",
+      "order": 7,
+      "categoryId": "motor",
+      "question": "Geri vites lambalarından biri parlak diğeri sönük yanıyorsa sebebi aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Flaşör arızalıdır.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Akü gerilimi düşüktür.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Geri vites müşiri arızalıdır.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Lamba bağlantısında oksitlenme vardır.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Lamba bağlantılarında oksidasyon meydana gelmesi, bağlantı direncinin artmasına ve lambalardan biri sönük yanmasına yol açar.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q8",
+      "order": 8,
+      "categoryId": "motor",
+      "question": "Akünün bakımında, elektrolit seviyesinin düşük olduğu gözlemlendiğinde aşağıdakilerden hangisi yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Asit ilave edilmeli",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Saf su ilave edilmeli",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hava filtresi değiştirilmeli",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kutup başları gevşetilmeli",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Aküde eksilen sıvı tamamlanırken sadece saf su eklenir, asit eklemek doğru değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q9",
+      "order": 9,
+      "categoryId": "motor",
+      "question": "Motorun soğutma sisteminde kullanılan su, 0 oC'nin altındaki hava şartlarında donarak motorda çatlama ve hasara sebep olabilir. Buna göre, donmanın önlenmesi için motor soğutma suyuna aşağıdakilerden hangisi karıştırılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Antifriz",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Motor yağı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Fren hidroliği",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Akü elektroliti",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Antifriz, suyun donma noktasını düşürerek motor soğutma sisteminde donmayı ve buna bağlı hasarı önler.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 32,
+  "testId": "motor_group_32",
+  "name": "Motor Test 32"
+}

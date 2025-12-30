@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g19_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıda verilen kişilik özelliklerinden hangisi trafikte oluşabilecek riskleri azaltır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Saygılı",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Öfkeli",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Saldırgan",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hoşgörülü",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Trafikte saygı ve hoşgörülü davranmak, riskli durumların azalmasına katkı sağlar.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g19_q2",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "'Bir araç sürücünün sadece kendine değil diğer araç sürücülerine karşı da sorumlulukları vardır.'\n\nYukarıda belirtilen ifade doğrultusunda aşağıda verilenlerden hangisi sorumsuz davranış olarak değerlendirilmez?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafik işaret ve işaretçilerini önsemekde",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hız sınırlarına dikkat etmek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Takip mesafesi kurallarına uymamak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yorgun araç kullanmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Hız sınırlarına dikkat etmek, hem kişisel hem de diğer sürücülerin güvenliği için sorumluluk bilinci gerektirir ve sorumsuz davranış değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g19_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "'Trafikte seyreden bütün araçların bir düzen içerinde olması önemlidir. Bu noktada trafik işaret ve işaretçilerinin işlevlerini yerine getirebilecek kabileyette olması kazaların önüne geçmede büyük bir öneme sahiptir. '\n\nYukarıda verilen bilgiler ışığında, trafik işaretleri ile ilgili olarak aşağıdaki davranışlardan hangilerinin yapılması yasaktır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sorumlu kuruluşların eskiyenleri yenisi ile değiştirmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Görülen eksikliklerin ilgili kuruluşlara bildirilerek giderilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Zarar veren sorumlunun zarar karşılıklarını ve masrafı ödemesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Görülmelerini engelleyecek şekilde araçların park edilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafik işaretlerini görünmez hale getirecek şekilde araç park etmek yasaktır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g19_q4",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Kamunun faydalandığı okul, hastane ve benzerlerinin giriş ve çıkış kapılarına her iki yönden kaç metrelik mesafe içinde park edilmesi yasaktır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "5",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "10",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "15",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "20",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Okul ve hastane gibi tesislerin kapılarına 5 metrelik mesafe içinde park etmek yasaklanmıştır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g19_q5",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Sürekli sol şeridi ihlal eden sürücüye uygulanacak ceza aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sadece ceza puanı",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Para cezası ve ceza puanı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hafif hapis cezası",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafikten men cezası",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Sol şerit sadece geçişler için kullanılmalıdır. Sürekli işgal eden sürücüye para cezası ve ceza puanı verilir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g19_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Durma ve duraklama yapılırken belli başlı kurallara uyulması gerekmektedir. Aşağıdakilerden hangisi durma-duraklama kurallarına uygun olmayan davranışa örnektir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bulunulan şeritte en az yeri işgal etmek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Duruma göre banketten faydalanma",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kaldırıma park etmek",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Durakta yolcu indirmek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Kaldırım yayalar için ayrılmıştır ve araç park etmek uygun değildir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 19,
+  "testId": "trafikadabi_group_19",
+  "name": "Trafik ve Çevre Test 19"
+}
